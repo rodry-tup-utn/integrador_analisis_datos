@@ -1,43 +1,49 @@
-# Trabajo Integrador Analisis de Datos - UTN
+# 📊 Trabajo Integrador: Análisis de Datos con Python
 
-## Profesora: Cintia Rigoni
+**Tecnicatura Universitaria en Programación - UTN FRM**
 
-## Alumnos:
+## 👥 Integrantes
 
-- Mercado, Leandro
-- Ramirez, Rodrigo
+- **Mercado, Leandro**
+- **Ramirez, Rodrigo**
 
+**Docente:** Cinthia Rigoni  
+**Fecha de Entrega:** 02/05 (Hasta Hito 2)
+
+---
+
+## ❓ Preguntas de Negocio
+
+1.  **¿Qué categorías de productos dejan mayor margen de ganancia por país?**
+2.  **¿El método de pago influye en la cantidad total de productos comprados y el total gastado?**
+3.  **¿Cuál es el método de pago que domina las transacciones de alto valor en cada país y cómo influye esto en la venta total mensual?**
+4.  **¿Hay ciudades en cada país donde la diferencia entre el costo de los productos y el precio de venta sea significativamente menor, afectando la rentabilidad?**
+
+---
 
 ## 🗺️ Hoja de Ruta del Proyecto
 
-### 📍 Hito 1: Adquisición y Planteo
+### ✅ Hito 1: Adquisición y Planteo
 
-    Volumen de Datos: Selección y carga de un dataset con más de 15,000 registros.
+- [x] Selección y carga de dataset (+15,000 registros)[cite: 1].
+- [x] Definición de objetivos estratégicos y preguntas de negocio[cite: 1].
 
-    Objetivos Estratégicos: Definición de 3 preguntas de negocio de alta complejidad para guiar el análisis exploratorio.
+### ✅ Hito 2: ETL y Feature Engineering
 
-### 🛠️ Hito 2: ETL y Feature Engineering
+- [x] **Calidad de Datos**: Limpieza de nulos y tratamiento de _outliers_ (Método IQR)[cite: 1].
+- [x] **Ingeniería de Atributos**: Creación de `Ganancia_Bruta`, `mes_texto` e `Indice_Constancia`[cite: 1].
+- [x] **Normalización**: Redondeo financiero y estandarización de categorías de texto[cite: 1].
 
-    Calidad de Datos: Limpieza robusta de nulos, corrección de tipos y tratamiento estadístico de outliers mediante el método IQR.
+### ⏳ Hito 3: Visualización Dinámica (Próximamente)
 
-    Ingeniería de Atributos: Creación de nuevas variables de valor como la Ganancia Bruta y el Índice de Constancia para segmentación de clientes.
+- [ ] Implementación de análisis exploratorio (EDA) con Seaborn[cite: 1].
+- [ ] Construcción de narrativa de datos e insights[cite: 1].
 
-### 📊 Hito 3: Visualización Dinámica
+### ⏳ Hito 4: Dashboard Interactivo
 
-    Análisis Exploratorio (EDA): Implementación de visualizaciones profesionales con Matplotlib y Seaborn.
+- [ ] Desarrollo de interfaz en **Streamlit**[cite: 1].
+- [ ] Implementación de filtros en tiempo real y KPIs[cite: 1].
 
-    Narrativa de Datos: Construcción de gráficos interpretativos que faciliten la extracción de insights accionables.
+### ⏳ Hito 5: Informe de Gestión
 
-### 🖥️ Hito 4: Dashboard Interactivo (Diferencial Técnico)
-
-    Interfaz de Usuario: Desarrollo de una aplicación web utilizando Streamlit (o Gradio).
-
-    Interactividad: Implementación de filtros dinámicos y actualización de KPIs en tiempo real para una experiencia de usuario fluida.
-
-### 🚀 Hito 5: Informe de Gestión
-
-    Diagnóstico: Presentación de hallazgos basados 100% en la evidencia recolectada durante el proceso.
-
-    Propuestas: Sugerencias de mejora académica y de negocio justificadas por el comportamiento de los datos procesados.
-
-Entrega 02/05 hasta Hito 2
+- [ ] Diagnóstico final y propuestas basadas en evidencia de datos[cite: 1].
