@@ -7,7 +7,6 @@
 - Mercado, Leandro
 - Ramirez, Rodrigo
 
-## Consignas
 
 ## 🗺️ Hoja de Ruta del Proyecto
 
