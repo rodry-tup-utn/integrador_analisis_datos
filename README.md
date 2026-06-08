@@ -36,8 +36,8 @@
 
 ### ⏳ Hito 3: Visualización Dinámica (Próximamente)
 
-- [ ] Implementación de análisis exploratorio (EDA) con Seaborn[cite: 1].
-- [ ] Construcción de narrativa de datos e insights[cite: 1].
+- [x] Implementación de análisis exploratorio (EDA) con Seaborn[cite: 1].
+- [x] Construcción de narrativa de datos e insights[cite: 1].
 
 ### ⏳ Hito 4: Dashboard Interactivo
 
