@@ -1249,7 +1249,7 @@ TRX-104338,2023-02-16,1076,Chile,Santiago,Electrónica,Tablets,Prod_Tablets_5,4.
 TRX-110104,2023-02-16,1779,Chile,Santiago,Hogar,Muebles,Prod_Muebles_15,7.0,34.16,24.33,239.12,170.31,Crédito,68.81,02-Febrero,7,02-Regular
 TRX-107127,2023-02-16,552,Perú,Lima,Ropa,Dama,Prod_Dama_19,1.0,63.75,43.58,63.75,43.58,Transferencia,20.17,02-Febrero,11,01-Fiel (VIP)
 TRX-104200,2023-02-16,1221,Chile,Concepción,Ropa,Calzado,Prod_Calzado_13,2.0,52.49,40.29,104.98,80.58,Crédito,24.4,02-Febrero,6,02-Regular
-TRX-101068,2023-02-16,1915,Chile,Valparaíso,Hogar,Cocina,Prod_Cocina_8,4.0,61.24,33.38,244.96,133.52,Efectivo,111.44,02-Febrero,6,02-Regular
+TRX-101068,2023-02-16,1915,Chile,Valparaíso,Hogar,Cocina,Prod_Cocina_8,4.0,61.24,33.38,244.96,133.52,Efectivo,111.44,02-Febrero,5,02-Regular
 TRX-111247,2023-02-16,303,Argentina,Rosario,Electrónica,Tablets,Prod_Tablets_18,7.0,108.26,64.44,757.82,451.08,Débito,306.74,02-Febrero,4,02-Regular
 TRX-112102,2023-02-16,1906,Chile,Valparaíso,Electrónica,Celulares,Prod_Celulares_13,2.0,235.46,182.34,470.92,364.68,Débito,106.24,02-Febrero,7,02-Regular
 TRX-114643,2023-02-16,335,Chile,Nan,Hogar,Muebles,Prod_Muebles_15,4.0,32.71,21.24,130.84,84.96,Débito,45.88,02-Febrero,9,02-Regular
@@ -1349,7 +1349,6 @@ TRX-100488,2023-02-20,1351,Chile,Santiago,Ropa,Calzado,Prod_Calzado_6,5.0,56.46,
 TRX-108805,2023-02-20,1693,Perú,Lima,Ropa,Caballero,Prod_Caballero_7,3.0,51.6,40.33,154.8,120.99,Efectivo,33.81,02-Febrero,7,02-Regular
 TRX-100390,2023-02-20,37,Chile,Valparaíso,Electrónica,Celulares,Prod_Celulares_19,6.0,140.85,84.47,845.1,506.82,Crédito,338.28,02-Febrero,12,01-Fiel (VIP)
 TRX-107808,2023-02-20,566,Perú,Trujillo,Ropa,Caballero,Prod_Caballero_3,8.0,35.72,25.63,285.76,205.04,Crédito,80.72,02-Febrero,10,01-Fiel (VIP)
-TRX-101556,2023-02-20,1596,Argentina,Córdoba,Hogar,Iluminación,Prod_Iluminación_2,-1.0,53.28,32.93,-53.28,-32.93,Crédito,-20.35,02-Febrero,6,02-Regular
 TRX-109837,2023-02-20,306,Chile,Santiago,Hogar,Cocina,Prod_Cocina_11,2.0,48.55,31.13,97.1,62.26,Débito,34.84,02-Febrero,7,02-Regular
 TRX-114409,2023-02-20,644,Chile,Valparaíso,Hogar,Decoración,Prod_Decoración_4,1.0,5.0,3.62,5.0,3.62,Crédito,1.38,02-Febrero,10,01-Fiel (VIP)
 TRX-110402,2023-02-20,344,Argentina,Rosario,Hogar,Decoración,Prod_Decoración_2,9.0,50.63,40.44,455.67,363.96,Efectivo,91.71,02-Febrero,8,02-Regular
@@ -1370,7 +1369,7 @@ TRX-104291,2023-02-20,47,Argentina,Rosario,Ropa,Infantil,Prod_Infantil_19,2.0,7.
 TRX-107438,2023-02-20,1891,Perú,Lima,Ropa,Dama,Prod_Dama_11,1.0,76.7,41.99,76.7,41.99,Débito,34.71,02-Febrero,10,01-Fiel (VIP)
 TRX-105170,2023-02-20,1169,Chile,Concepción,Ropa,Dama,Prod_Dama_17,4.0,63.57,43.63,254.28,174.52,Crédito,79.76,02-Febrero,8,02-Regular
 TRX-112513,2023-02-21,686,Perú,Trujillo,Ropa,Caballero,Prod_Caballero_6,2.0,27.57,17.72,55.14,35.44,Efectivo,19.7,02-Febrero,6,02-Regular
-TRX-102666,2023-02-21,1786,Argentina,Córdoba,Hogar,Muebles,Prod_Muebles_16,5.0,41.48,21.52,207.4,107.6,Efectivo,99.8,02-Febrero,8,02-Regular
+TRX-102666,2023-02-21,1786,Argentina,Córdoba,Hogar,Muebles,Prod_Muebles_16,5.0,41.48,21.52,207.4,107.6,Efectivo,99.8,02-Febrero,7,02-Regular
 TRX-100173,2023-02-21,400,Argentina,Córdoba,Electrónica,Celulares,Prod_Celulares_9,1.0,219.37,117.51,219.37,117.51,Débito,101.86,02-Febrero,7,02-Regular
 TRX-104536,2023-02-21,1827,Perú,Trujillo,Hogar,Muebles,Prod_Muebles_18,3.0,34.8,19.09,104.4,57.27,Débito,47.13,02-Febrero,11,01-Fiel (VIP)
 TRX-113085,2023-02-21,845,Perú,Arequipa,Ropa,Caballero,Prod_Caballero_10,3.0,33.27,19.66,99.81,58.98,Débito,40.83,02-Febrero,5,02-Regular
@@ -1538,7 +1537,7 @@ TRX-102113,2023-02-27,903,Argentina,Córdoba,Ropa,Calzado,Prod_Calzado_15,3.0,42
 TRX-111184,2023-02-27,1929,Perú,Arequipa,Hogar,Muebles,Prod_Muebles_11,8.0,44.9,34.83,359.2,278.64,Efectivo,80.56,02-Febrero,11,01-Fiel (VIP)
 TRX-100439,2023-02-27,934,Argentina,Rosario,Electrónica,Accesorios,Prod_Accesorios_19,4.0,134.73,94.33,538.92,377.32,Efectivo,161.6,02-Febrero,8,02-Regular
 TRX-100811,2023-02-27,114,Argentina,Córdoba,Ropa,Infantil,Prod_Infantil_4,6.0,32.8,24.86,196.8,149.16,Efectivo,47.64,02-Febrero,6,02-Regular
-TRX-109145,2023-02-27,1915,Perú,Nan,Ropa,Calzado,Prod_Calzado_17,5.0,58.95,30.93,294.75,154.65,Transferencia,140.1,02-Febrero,6,02-Regular
+TRX-109145,2023-02-27,1915,Perú,Nan,Ropa,Calzado,Prod_Calzado_17,5.0,58.95,30.93,294.75,154.65,Transferencia,140.1,02-Febrero,5,02-Regular
 TRX-106519,2023-02-27,733,Argentina,Rosario,Electrónica,Laptops,Prod_Laptops_6,1.0,178.95,97.53,178.95,97.53,Crédito,81.42,02-Febrero,10,01-Fiel (VIP)
 TRX-102150,2023-02-27,1792,Chile,Santiago,Hogar,Decoración,Prod_Decoración_4,2.0,52.45,36.98,104.9,73.96,Débito,30.94,02-Febrero,6,02-Regular
 TRX-100496,2023-02-27,1968,Chile,Santiago,Hogar,Iluminación,Prod_Iluminación_14,1.0,56.85,41.66,56.85,41.66,Transferencia,15.19,02-Febrero,11,01-Fiel (VIP)
@@ -1717,7 +1716,7 @@ TRX-106174,2023-03-05,1389,Argentina,Buenos Aires,Hogar,Cocina,Prod_Cocina_10,9.
 TRX-113423,2023-03-05,1470,Perú,Lima,Hogar,Muebles,Prod_Muebles_5,8.0,41.28,26.39,330.24,211.12,Crédito,119.12,03-Marzo,6,02-Regular
 TRX-107018,2023-03-05,1497,Perú,Arequipa,Hogar,Decoración,Prod_Decoración_5,8.0,34.86,25.3,278.88,202.4,Débito,76.48,03-Marzo,8,02-Regular
 TRX-104331,2023-03-05,1874,Perú,Trujillo,Hogar,Muebles,Prod_Muebles_10,8.0,14.22,7.17,113.76,57.36,Efect,56.4,03-Marzo,8,02-Regular
-TRX-113875,2023-03-05,654,Argentina,Córdoba,Ropa,Calzado,Prod_Calzado_17,8.0,45.4,28.3,363.2,226.4,Transferencia,136.8,03-Marzo,9,02-Regular
+TRX-113875,2023-03-05,654,Argentina,Córdoba,Ropa,Calzado,Prod_Calzado_17,8.0,45.4,28.3,363.2,226.4,Transferencia,136.8,03-Marzo,8,02-Regular
 TRX-106077,2023-03-05,1738,Perú,Nan,Hogar,Decoración,Prod_Decoración_17,4.0,36.28,21.43,145.12,85.72,Transferencia,59.4,03-Marzo,9,02-Regular
 TRX-111275,2023-03-05,894,Argentina,Córdoba,Hogar,Iluminación,Prod_Iluminación_15,9.0,13.95,10.78,125.55,97.02,Debito,28.53,03-Marzo,6,02-Regular
 TRX-103927,2023-03-05,1988,Chile,Santiago,Hogar,Muebles,Prod_Muebles_4,3.0,42.25,29.2,126.75,87.6,Crédito,39.15,03-Marzo,7,02-Regular
@@ -1941,7 +1940,7 @@ TRX-106563,2023-03-14,180,Perú,Arequipa,Electrónica,Tablets,Prod_Tablets_10,3.
 TRX-110675,2023-03-14,506,Perú,Trujillo,Hogar,Cocina,Prod_Cocina_14,4.0,35.93,27.28,143.72,109.12,Transferencia,34.6,03-Marzo,8,02-Regular
 TRX-106655,2023-03-14,1755,Perú,Trujillo,Ropa,Infantil,Prod_Infantil_16,9.0,23.46,17.28,211.14,155.52,Crédito,55.62,03-Marzo,8,02-Regular
 TRX-113506,2023-03-14,109,Argentina,Córdoba,Hogar,Cocina,Prod_Cocina_5,2.0,45.73,33.66,91.46,67.32,Débito,24.14,03-Marzo,6,02-Regular
-TRX-112643,2023-03-14,1435,Chile,Concepción,Hogar,Muebles,Prod_Muebles_18,6.0,35.96,24.87,215.76,149.22,Transferencia,66.54,03-Marzo,10,01-Fiel (VIP)
+TRX-112643,2023-03-14,1435,Chile,Concepción,Hogar,Muebles,Prod_Muebles_18,6.0,35.96,24.87,215.76,149.22,Transferencia,66.54,03-Marzo,9,02-Regular
 TRX-106150,2023-03-14,1381,Chile,Santiago,Ropa,Dama,Prod_Dama_11,1.0,39.05,29.79,39.05,29.79,Débito,9.26,03-Marzo,7,02-Regular
 TRX-114297,2023-03-14,1365,Chile,Valparaíso,Electrónica,Tablets,Prod_Tablets_1,2.0,154.05,88.19,308.1,176.38,Débito,131.72,03-Marzo,10,01-Fiel (VIP)
 TRX-108654,2023-03-14,1527,Chile,Santiago,Hogar,Decoración,Prod_Decoración_3,3.0,45.13,30.94,135.39,92.82,Transferencia,42.57,03-Marzo,2,03-Ocasional
@@ -2211,7 +2210,7 @@ TRX-114804,2023-03-24,1768,Chile,Concepción,Ropa,Dama,Prod_Dama_1,1.0,56.33,38.
 TRX-105576,2023-03-24,46,Argentina,Córdoba,Hogar,Decoración,Prod_Decoración_18,1.0,74.22,41.22,74.22,41.22,Crédito,33.0,03-Marzo,4,02-Regular
 TRX-100930,2023-03-24,457,Argentina,Córdoba,Ropa,Caballero,Prod_Caballero_13,3.0,46.78,36.29,140.34,108.87,Crédito,31.47,03-Marzo,13,01-Fiel (VIP)
 TRX-110076,2023-03-24,854,Argentina,Buenos Aires,Ropa,Calzado,Prod_Calzado_9,9.0,49.54,31.59,445.86,284.31,Efectivo,161.55,03-Marzo,8,02-Regular
-TRX-106528,2023-03-24,7,Perú,Trujillo,Hogar,Muebles,Prod_Muebles_18,4.0,47.59,37.87,190.36,151.48,Efectivo,38.88,03-Marzo,6,02-Regular
+TRX-106528,2023-03-24,7,Perú,Trujillo,Hogar,Muebles,Prod_Muebles_18,4.0,47.59,37.87,190.36,151.48,Efectivo,38.88,03-Marzo,5,02-Regular
 TRX-109168,2023-03-24,945,Perú,Trujillo,Hogar,Decoración,Prod_Decoración_8,1.0,42.77,31.25,42.77,31.25,Transferencia,11.52,03-Marzo,9,02-Regular
 TRX-111421,2023-03-24,513,Chile,Valparaíso,Electrónica,Celulares,Prod_Celulares_14,1.0,90.25,47.85,90.25,47.85,Transferencia,42.4,03-Marzo,6,02-Regular
 TRX-108113,2023-03-24,1065,Perú,Trujillo,Hogar,Muebles,Prod_Muebles_15,6.0,37.9,19.47,227.4,116.82,Crédito,110.58,03-Marzo,5,02-Regular
@@ -2687,7 +2686,7 @@ TRX-110788,2023-04-10,35,Perú,Arequipa,Hogar,Decoración,Prod_Decoración_19,4.
 TRX-108101,2023-04-10,878,Argentina,Buenos Aires,Electrónica,Accesorios,Prod_Accesorios_13,5.0,104.34,82.3,521.7,411.5,Efectivo,110.2,04-Abril,12,01-Fiel (VIP)
 TRX-103847,2023-04-10,1938,Argentina,Córdoba,Electrónica,Celulares,Prod_Celulares_2,1.0,207.24,153.05,207.24,153.05,Transferencia,54.19,04-Abril,5,02-Regular
 TRX-104597,2023-04-10,1011,Chile,Concepción,Hogar,Iluminación,Prod_Iluminación_7,1.0,44.53,35.49,44.53,35.49,Débito,9.04,04-Abril,5,02-Regular
-TRX-100014,2023-04-10,1596,Argentina,Córdoba,Hogar,Cocina,Prod_Cocina_2,4.0,40.16,30.3,160.64,121.2,Transferencia,39.44,04-Abril,6,02-Regular
+TRX-100014,2023-04-10,1596,Argentina,Córdoba,Hogar,Cocina,Prod_Cocina_2,4.0,40.16,30.3,160.64,121.2,Transferencia,39.44,04-Abril,5,02-Regular
 TRX-108787,2023-04-10,1052,Chile,Santiago,Hogar,Muebles,Prod_Muebles_18,6.0,38.46,28.13,230.76,168.78,Débito,61.98,04-Abril,10,01-Fiel (VIP)
 TRX-104659,2023-04-10,1399,Argentina,Buenos Aires,Ropa,Calzado,Prod_Calzado_14,8.0,54.44,34.67,435.52,277.36,Débito,158.16,04-Abril,6,02-Regular
 TRX-113124,2023-04-10,1807,Argentina,Rosario,Hogar,Cocina,Prod_Cocina_7,4.0,34.55,26.68,138.2,106.72,Débito,31.48,04-Abril,9,02-Regular
@@ -2706,7 +2705,7 @@ TRX-106998,2023-04-11,168,Peru,Arequipa,Ropa,Calzado,Prod_Calzado_17,8.0,28.36,1
 TRX-104625,2023-04-11,791,Perú,Nan,Electrónica,Celulares,Prod_Celulares_2,2.0,158.99,98.27,317.98,196.54,Crédito,121.44,04-Abril,7,02-Regular
 TRX-112556,2023-04-11,1268,Chile,Santiago,Ropa,Caballero,Prod_Caballero_7,9.0,30.12,23.54,271.08,211.86,Débito,59.22,04-Abril,4,02-Regular
 TRX-108650,2023-04-11,1639,Perú,Lima,Ropa,Infantil,Prod_Infantil_9,9.0,55.37,27.87,498.33,250.83,Nan,247.5,04-Abril,9,02-Regular
-TRX-110733,2023-04-11,1786,Argentina,Buenos Aires,Ropa,Infantil,Prod_Infantil_4,9.0,22.62,14.33,203.58,128.97,Transferencia,74.61,04-Abril,8,02-Regular
+TRX-110733,2023-04-11,1786,Argentina,Buenos Aires,Ropa,Infantil,Prod_Infantil_4,9.0,22.62,14.33,203.58,128.97,Transferencia,74.61,04-Abril,7,02-Regular
 TRX-102910,2023-04-11,1810,Argentina,Buenos Aires,Electrónica,Celulares,Prod_Celulares_3,6.0,124.93,95.97,749.58,575.82,Transferencia,173.76,04-Abril,8,02-Regular
 TRX-100625,2023-04-11,1249,Argentina,Buenos Aires,Hogar,Decoración,Prod_Decoración_4,3.0,21.25,13.42,63.75,40.26,Transferencia,23.49,04-Abril,10,01-Fiel (VIP)
 TRX-104959,2023-04-11,183,Argentina,Buenos Aires,Hogar,Muebles,Prod_Muebles_11,8.0,51.18,32.68,409.44,261.44,Débito,148.0,04-Abril,10,01-Fiel (VIP)
@@ -2815,7 +2814,6 @@ TRX-112530,2023-04-14,1765,Argentina,Rosario,Ropa,Infantil,Prod_Infantil_7,4.0,4
 TRX-105176,2023-04-14,849,Perú,Trujillo,Electrónica,Laptops,Prod_Laptops_8,2.0,141.34,80.45,282.68,160.9,Crédito,121.78,04-Abril,12,01-Fiel (VIP)
 TRX-111009,2023-04-14,1463,Perú,Trujillo,Electrónica,Celulares,Prod_Celulares_18,7.0,95.08,53.43,665.56,374.01,Débito,291.55,04-Abril,1,03-Ocasional
 TRX-111358,2023-04-14,170,Argentina,Córdoba,Ropa,Infantil,Prod_Infantil_7,6.0,42.69,27.52,256.14,165.12,Débito,91.02,04-Abril,7,02-Regular
-TRX-103094,2023-04-15,431,Argentina,Buenos Aires,Electrónica,Accesorios,Prod_Accesorios_19,-3.0,98.55,50.97,-295.65,-152.91,Crédito,-142.74,04-Abril,3,03-Ocasional
 TRX-110005,2023-04-15,832,Perú,Trujillo,Ropa,Calzado,Prod_Calzado_14,7.0,39.94,27.59,279.58,193.13,Efectivo,86.45,04-Abril,6,02-Regular
 TRX-114309,2023-04-15,876,Perú,Trujillo,Ropa,Dama,Prod_Dama_10,5.0,51.77,32.14,258.85,160.7,Transferencia,98.15,04-Abril,8,02-Regular
 TRX-114891,2023-04-15,830,Argentina,Nan,Ropa,Infantil,Prod_Infantil_19,2.0,70.26,42.16,140.52,84.32,Débito,56.2,04-Abril,8,02-Regular
@@ -3086,7 +3084,7 @@ TRX-113090,2023-04-23,310,Chile,Santiago,Hogar,Decoración,Prod_Decoración_9,2.
 TRX-113222,2023-04-23,529,Perú,Lima,Ropa,Infantil,Prod_Infantil_13,7.0,40.2,20.93,281.4,146.51,Transferencia,134.89,04-Abril,7,02-Regular
 TRX-104410,2023-04-24,1747,Argentina,Buenos Aires,Hogar,Muebles,Prod_Muebles_1,8.0,57.28,41.32,458.24,330.56,Efectivo,127.68,04-Abril,6,02-Regular
 TRX-113803,2023-04-24,1312,Perú,Lima,Ropa,Infantil,Prod_Infantil_4,8.0,34.35,25.94,274.8,207.52,Débito,67.28,04-Abril,5,02-Regular
-TRX-105267,2023-04-24,1786,Chile,Valparaíso,Hogar,Muebles,Prod_Muebles_13,2.0,24.84,18.42,49.68,36.84,Crédito,12.84,04-Abril,8,02-Regular
+TRX-105267,2023-04-24,1786,Chile,Valparaíso,Hogar,Muebles,Prod_Muebles_13,2.0,24.84,18.42,49.68,36.84,Crédito,12.84,04-Abril,7,02-Regular
 TRX-110186,2023-04-24,1956,Chile,Concepción,Ropa,Caballero,Prod_Caballero_7,2.0,39.98,21.84,79.96,43.68,Nan,36.28,04-Abril,10,01-Fiel (VIP)
 TRX-105001,2023-04-24,718,Chile,Concepción,Electrónica,Celulares,Prod_Celulares_17,9.0,27.36,15.23,246.24,137.07,Efectivo,109.17,04-Abril,9,02-Regular
 TRX-109851,2023-04-24,981,Chile,Concepción,Hogar,Cocina,Prod_Cocina_4,9.0,43.87,24.39,394.83,219.51,Débito,175.32,04-Abril,5,02-Regular
@@ -3376,7 +3374,7 @@ TRX-108330,2023-05-05,1943,Perú,Trujillo,Hogar,Iluminación,Prod_Iluminación_9
 TRX-108489,2023-05-05,675,Perú,Lima,Ropa,Caballero,Prod_Caballero_1,8.0,8.0,4.53,64.0,36.24,Crédito,27.76,05-Mayo,3,03-Ocasional
 TRX-109977,2023-05-05,502,Argentina,Córdoba,Hogar,Cocina,Prod_Cocina_13,2.0,41.96,27.42,83.92,54.84,Transferencia,29.08,05-Mayo,4,02-Regular
 TRX-112641,2023-05-05,1024,Chile,Concepción,Hogar,Cocina,Prod_Cocina_16,9.0,46.67,24.09,420.03,216.81,Efectivo,203.22,05-Mayo,3,03-Ocasional
-TRX-106219,2023-05-05,1786,Argentina,Rosario,Ropa,Calzado,Prod_Calzado_9,9.0,71.13,44.76,640.17,402.84,Efectivo,237.33,05-Mayo,8,02-Regular
+TRX-106219,2023-05-05,1786,Argentina,Rosario,Ropa,Calzado,Prod_Calzado_9,9.0,71.13,44.76,640.17,402.84,Efectivo,237.33,05-Mayo,7,02-Regular
 TRX-113350,2023-05-05,296,Chile,Santiago,Ropa,Caballero,Prod_Caballero_18,6.0,30.14,21.03,180.84,126.18,Crédito,54.66,05-Mayo,8,02-Regular
 TRX-113496,2023-05-05,1097,Argentina,Buenos Aires,Hogar,Cocina,Prod_Cocina_14,1.0,62.59,32.17,62.59,32.17,Débito,30.42,05-Mayo,6,02-Regular
 TRX-113223,2023-05-05,181,Chile,Valparaíso,Hogar,Cocina,Prod_Cocina_3,3.0,30.38,22.32,91.14,66.96,Transferencia,24.18,05-Mayo,7,02-Regular
@@ -3546,7 +3544,7 @@ TRX-101812,2023-05-11,463,Chile,Concepción,Electrónica,Celulares,Prod_Celulare
 TRX-112880,2023-05-11,1841,Argentina,Nan,Electrónica,Laptops,Prod_Laptops_1,2.0,190.18,119.45,380.36,238.9,Nan,141.46,05-Mayo,5,02-Regular
 TRX-113535,2023-05-11,1304,Perú,Arequipa,Electrónica,Celulares,Prod_Celulares_12,2.0,214.94,111.56,429.88,223.12,Crédito,206.76,05-Mayo,4,02-Regular
 TRX-114851,2023-05-11,13,Perú,Trujillo,Hogar,Decoración,Prod_Decoración_12,7.0,43.03,31.6,301.21,221.2,Débito,80.01,05-Mayo,12,01-Fiel (VIP)
-TRX-112900,2023-05-11,1915,Perú,Trujillo,Ropa,Dama,Prod_Dama_1,9.0,7.4,4.91,66.6,44.19,Crédito,22.41,05-Mayo,6,02-Regular
+TRX-112900,2023-05-11,1915,Perú,Trujillo,Ropa,Dama,Prod_Dama_1,9.0,7.4,4.91,66.6,44.19,Crédito,22.41,05-Mayo,5,02-Regular
 TRX-101531,2023-05-11,243,Perú,Trujillo,Hogar,Cocina,Prod_Cocina_4,1.0,54.06,29.76,54.06,29.76,Transferencia,24.3,05-Mayo,10,01-Fiel (VIP)
 TRX-103734,2023-05-11,1710,Perú,Lima,Hogar,Cocina,Prod_Cocina_19,2.0,53.74,42.82,107.48,85.64,Transferencia,21.84,05-Mayo,6,02-Regular
 TRX-113256,2023-05-11,672,Argentina,Rosario,Ropa,Calzado,Prod_Calzado_11,3.0,61.36,48.52,184.08,145.56,Transferencia,38.52,05-Mayo,9,02-Regular
@@ -3949,7 +3947,7 @@ TRX-108858,2023-05-25,1520,Argentina,Rosario,Electrónica,Laptops,Prod_Laptops_1
 TRX-101136,2023-05-26,459,Chile,Valparaíso,Hogar,Iluminación,Prod_Iluminación_14,4.0,44.43,33.16,177.72,132.64,Efectivo,45.08,05-Mayo,12,01-Fiel (VIP)
 TRX-105901,2023-05-26,1904,Argentina,Rosario,Hogar,Cocina,Prod_Cocina_9,5.0,50.2,36.13,251.0,180.65,Débito,70.35,05-Mayo,11,01-Fiel (VIP)
 TRX-103411,2023-05-26,31,Perú,Trujillo,Hogar,Iluminación,Prod_Iluminación_14,4.0,22.22,11.79,88.88,47.16,Crédito,41.72,05-Mayo,9,02-Regular
-TRX-102979,2023-05-26,1786,Chile,Valparaíso,Hogar,Cocina,Prod_Cocina_9,3.0,61.87,33.24,185.61,99.72,Transferencia,85.89,05-Mayo,8,02-Regular
+TRX-102979,2023-05-26,1786,Chile,Valparaíso,Hogar,Cocina,Prod_Cocina_9,3.0,61.87,33.24,185.61,99.72,Transferencia,85.89,05-Mayo,7,02-Regular
 TRX-113903,2023-05-26,180,Perú,Trujillo,Hogar,Decoración,Prod_Decoración_9,3.0,22.52,14.86,67.56,44.58,Transferencia,22.98,05-Mayo,8,02-Regular
 TRX-107870,2023-05-26,383,Chile,Concepción,Hogar,Iluminación,Prod_Iluminación_14,1.0,36.33,21.3,36.33,21.3,Efectivo,15.03,05-Mayo,4,02-Regular
 TRX-111829,2023-05-26,1080,Chile,Santiago,Ropa,Caballero,Prod_Caballero_7,4.0,34.49,23.62,137.96,94.48,Efectivo,43.48,05-Mayo,6,02-Regular
@@ -4043,7 +4041,7 @@ TRX-103145,2023-05-28,1071,Argentina,Rosario,Electrónica,Laptops,Prod_Laptops_4
 TRX-106283,2023-05-28,797,Perú,Lima,Nan,Infantil,Prod_Infantil_4,7.0,53.26,30.66,372.82,214.62,Transferencia,158.2,05-Mayo,6,02-Regular
 TRX-102756,2023-05-29,302,Perú,Arequipa,Ropa,Caballero,Prod_Caballero_1,9.0,60.12,32.17,541.08,289.53,Transferencia,251.55,05-Mayo,6,02-Regular
 TRX-108763,2023-05-29,1540,Argentina,Nan,Nan,Tablets,Prod_Tablets_14,6.0,130.43,88.84,782.58,533.04,Transferencia,249.54,05-Mayo,4,02-Regular
-TRX-101692,2023-05-29,654,Perú,Trujillo,Electrónica,Accesorios,Prod_Accesorios_9,2.0,64.28,39.36,128.56,78.72,Efectivo,49.84,05-Mayo,9,02-Regular
+TRX-101692,2023-05-29,654,Perú,Trujillo,Electrónica,Accesorios,Prod_Accesorios_9,2.0,64.28,39.36,128.56,78.72,Efectivo,49.84,05-Mayo,8,02-Regular
 TRX-106045,2023-05-29,1600,Argentina,Rosario,Electrónica,Laptops,Prod_Laptops_7,4.0,168.34,89.3,673.36,357.2,Debito,316.16,05-Mayo,7,02-Regular
 TRX-101439,2023-05-29,1968,Perú,Arequipa,Ropa,Calzado,Prod_Calzado_2,9.0,34.11,24.55,306.99,220.95,Efectivo,86.04,05-Mayo,11,01-Fiel (VIP)
 TRX-114510,2023-05-29,1433,Chile,Santiago,Electrónica,Tablets,Prod_Tablets_7,1.0,56.59,37.6,56.59,37.6,Crédito,18.99,05-Mayo,5,02-Regular
@@ -4142,7 +4140,7 @@ TRX-114685,2023-06-01,299,Argentina,Córdoba,Electrónica,Laptops,Prod_Laptops_1
 TRX-107932,2023-06-01,1279,Argentina,Córdoba,Hogar,Cocina,Prod_Cocina_1,2.0,12.37,9.84,24.74,19.68,Efectivo,5.06,06-Junio,6,02-Regular
 TRX-100615,2023-06-01,1522,Chile,Santiago,Ropa,Calzado,Prod_Calzado_10,6.0,36.65,22.18,219.9,133.08,Débito,86.82,06-Junio,7,02-Regular
 TRX-108135,2023-06-01,849,Argentina,Rosario,Electrónica,Tablets,Prod_Tablets_1,2.0,61.71,44.37,123.42,88.74,Crédito,34.68,06-Junio,12,01-Fiel (VIP)
-TRX-111609,2023-06-01,7,Chile,Valparaíso,Ropa,Calzado,Prod_Calzado_17,2.0,6.51,3.48,13.02,6.96,Crédito,6.06,06-Junio,6,02-Regular
+TRX-111609,2023-06-01,7,Chile,Valparaíso,Ropa,Calzado,Prod_Calzado_17,2.0,6.51,3.48,13.02,6.96,Crédito,6.06,06-Junio,5,02-Regular
 TRX-104318,2023-06-01,1150,Perú,Trujillo,Ropa,Dama,Prod_Dama_14,2.0,12.42,8.7,24.84,17.4,Efectivo,7.44,06-Junio,4,02-Regular
 TRX-112247,2023-06-01,1554,Perú,Trujillo,Electrónica,Tablets,Prod_Tablets_19,1.0,110.6,79.15,110.6,79.15,Crédito,31.45,06-Junio,3,03-Ocasional
 TRX-111090,2023-06-01,1787,Argentina,Córdoba,Hogar,Decoración,Prod_Decoración_12,1.0,33.14,17.12,33.14,17.12,Transferencia,16.02,06-Junio,5,02-Regular
@@ -4159,7 +4157,7 @@ TRX-101876,2023-06-02,111,Perú,Arequipa,Hogar,Iluminación,Prod_Iluminación_16
 TRX-114096,2023-06-02,1549,Perú,Lima,Electrónica,Laptops,Prod_Laptops_19,4.0,132.87,84.83,531.48,339.32,Efectivo,192.16,06-Junio,7,02-Regular
 TRX-107944,2023-06-02,800,Argentina,Buenos Aires,Electrónica,Laptops,Prod_Laptops_5,4.0,72.99,46.53,291.96,186.12,Crédito,105.84,06-Junio,6,02-Regular
 TRX-106030,2023-06-02,1885,Chile,Valparaíso,Hogar,Cocina,Prod_Cocina_15,3.0,18.32,11.07,54.96,33.21,Débito,21.75,06-Junio,7,02-Regular
-TRX-104754,2023-06-02,1596,Argentina,Córdoba,Hogar,Decoración,Prod_Decoración_5,8.0,58.68,45.45,469.44,363.6,Efectivo,105.84,06-Junio,6,02-Regular
+TRX-104754,2023-06-02,1596,Argentina,Córdoba,Hogar,Decoración,Prod_Decoración_5,8.0,58.68,45.45,469.44,363.6,Efectivo,105.84,06-Junio,5,02-Regular
 TRX-100489,2023-06-02,927,Chile,Valparaíso,Hogar,Muebles,Prod_Muebles_5,5.0,47.14,36.48,235.7,182.4,Transferencia,53.3,06-Junio,4,02-Regular
 TRX-109395,2023-06-02,981,Chile,Valparaíso,Electrónica,Laptops,Prod_Laptops_1,6.0,135.81,81.44,814.86,488.64,Débito,326.22,06-Junio,5,02-Regular
 TRX-105587,2023-06-02,1144,Chile,Valparaíso,Electrónica,Accesorios,Prod_Accesorios_5,2.0,155.3,109.51,310.6,219.02,Crédito,91.58,06-Junio,8,02-Regular
@@ -4440,7 +4438,7 @@ TRX-111098,2023-06-12,757,Argentina,Córdoba,Ropa,Infantil,Prod_Infantil_18,5.0,
 TRX-106772,2023-06-12,607,Argentina,Buenos Aires,Nan,Infantil,Prod_Infantil_17,9.0,55.96,38.15,503.64,343.35,Efectivo,160.29,06-Junio,7,02-Regular
 TRX-106734,2023-06-12,1359,Perú,Arequipa,Hogar,Decoración,Prod_Decoración_3,4.0,40.82,25.35,163.28,101.4,Transferencia,61.88,06-Junio,7,02-Regular
 TRX-111314,2023-06-12,911,Chile,Concepción,Nan,Dama,Prod_Dama_9,4.0,67.12,41.93,268.48,167.72,Efectivo,100.76,06-Junio,3,03-Ocasional
-TRX-110924,2023-06-12,971,Argentina,Córdoba,Ropa,Caballero,Prod_Caballero_2,1.0,54.65,43.33,54.65,43.33,Transferencia,11.32,06-Junio,6,02-Regular
+TRX-110924,2023-06-12,971,Argentina,Córdoba,Ropa,Caballero,Prod_Caballero_2,1.0,54.65,43.33,54.65,43.33,Transferencia,11.32,06-Junio,5,02-Regular
 TRX-100618,2023-06-12,1101,Chile,Valparaíso,Ropa,Caballero,Prod_Caballero_5,7.0,27.89,19.19,195.23,134.33,Transferencia,60.9,06-Junio,4,02-Regular
 TRX-112611,2023-06-12,1419,Argentina,Rosario,Electrónica,Tablets,Prod_Tablets_7,5.0,5.0,3.85,25.0,19.25,Débito,5.75,06-Junio,12,01-Fiel (VIP)
 TRX-113701,2023-06-12,636,Perú,Trujillo,Hogar,Iluminación,Prod_Iluminación_11,4.0,43.27,32.69,173.08,130.76,Transferencia,42.32,06-Junio,6,02-Regular
@@ -4741,7 +4739,7 @@ TRX-103227,2023-06-23,1016,Perú,Arequipa,Electrónica,Accesorios,Prod_Accesorio
 TRX-100750,2023-06-23,1014,Argentina,Córdoba,Hogar,Muebles,Prod_Muebles_4,6.0,35.52,19.37,213.12,116.22,Efectivo,96.9,06-Junio,9,02-Regular
 TRX-113667,2023-06-23,1345,Perú,Trujillo,Electrónica,Accesorios,Prod_Accesorios_14,3.0,114.44,69.05,343.32,207.15,Transferencia,136.17,06-Junio,11,01-Fiel (VIP)
 TRX-113720,2023-06-23,1978,Argentina,Rosario,Hogar,Iluminación,Prod_Iluminación_12,4.0,49.47,28.32,197.88,113.28,Débito,84.6,06-Junio,10,01-Fiel (VIP)
-TRX-103952,2023-06-23,431,Chile,Santiago,Ropa,Calzado,Prod_Calzado_19,1.0,17.91,13.54,17.91,13.54,Crédito,4.37,06-Junio,3,03-Ocasional
+TRX-103952,2023-06-23,431,Chile,Santiago,Ropa,Calzado,Prod_Calzado_19,1.0,17.91,13.54,17.91,13.54,Crédito,4.37,06-Junio,2,03-Ocasional
 TRX-110542,2023-06-23,1006,Perú,Trujillo,Hogar,Muebles,Prod_Muebles_5,7.0,48.94,28.1,342.58,196.7,Efectivo,145.88,06-Junio,5,02-Regular
 TRX-110464,2023-06-23,1014,Perú,Trujillo,Hogar,Decoración,Prod_Decoración_8,9.0,39.67,22.44,357.03,201.96,Transferencia,155.07,06-Junio,9,02-Regular
 TRX-109894,2023-06-23,96,Perú,Trujillo,Electrónica,Accesorios,Prod_Accesorios_18,6.0,100.44,66.52,602.64,399.12,Crédito,203.52,06-Junio,6,02-Regular
@@ -5649,7 +5647,7 @@ TRX-114508,2023-07-26,844,Argentina,Córdoba,Electrónica,Laptops,Prod_Laptops_1
 TRX-105379,2023-07-26,1900,Perú,Trujillo,Ropa,Infantil,Prod_Infantil_6,5.0,31.26,15.64,156.3,78.2,Efectivo,78.1,07-Julio,2,03-Ocasional
 TRX-114907,2023-07-26,1891,Chile,Concepción,Hogar,Cocina,Prod_Cocina_17,4.0,56.75,35.08,227.0,140.32,Crédito,86.68,07-Julio,10,01-Fiel (VIP)
 TRX-112496,2023-07-26,1966,Perú,Trujillo,Electrónica,Laptops,Prod_Laptops_19,2.0,227.43,159.06,454.86,318.12,Efectivo,136.74,07-Julio,8,02-Regular
-TRX-112394,2023-07-26,971,Perú,Trujillo,Ropa,Dama,Prod_Dama_2,4.0,55.8,28.03,223.2,112.12,Crédito,111.08,07-Julio,6,02-Regular
+TRX-112394,2023-07-26,971,Perú,Trujillo,Ropa,Dama,Prod_Dama_2,4.0,55.8,28.03,223.2,112.12,Crédito,111.08,07-Julio,5,02-Regular
 TRX-105926,2023-07-26,855,Perú,Trujillo,Hogar,Cocina,Prod_Cocina_12,1.0,45.35,22.86,45.35,22.86,Débito,22.49,07-Julio,9,02-Regular
 TRX-107398,2023-07-26,208,Argentina,Buenos Aires,Electrónica,Tablets,Prod_Tablets_13,1.0,233.47,140.69,233.47,140.69,Transferencia,92.78,07-Julio,12,01-Fiel (VIP)
 TRX-105830,2023-07-26,1908,Perú,Arequipa,Ropa,Infantil,Prod_Infantil_11,8.0,40.62,26.7,324.96,213.6,Débito,111.36,07-Julio,6,02-Regular
@@ -5793,7 +5791,7 @@ TRX-109485,2023-08-01,526,Perú,Trujillo,Hogar,Iluminación,Prod_Iluminación_19
 TRX-103061,2023-08-01,52,Argentina,Córdoba,Hogar,Muebles,Prod_Muebles_17,2.0,55.09,32.7,110.18,65.4,Transferencia,44.78,08-Agosto,10,01-Fiel (VIP)
 TRX-103758,2023-08-01,1928,Perú,Trujillo,Ropa,Dama,Prod_Dama_6,8.0,42.25,26.7,338.0,213.6,Transferencia,124.4,08-Agosto,8,02-Regular
 TRX-105611,2023-08-01,1364,Perú,Trujillo,Electrónica,Tablets,Prod_Tablets_19,2.0,200.34,155.68,400.68,311.36,Nan,89.32,08-Agosto,5,02-Regular
-TRX-103491,2023-08-01,654,Argentina,Córdoba,Hogar,Decoración,Prod_Decoración_14,9.0,5.0,2.86,45.0,25.74,Débito,19.26,08-Agosto,9,02-Regular
+TRX-103491,2023-08-01,654,Argentina,Córdoba,Hogar,Decoración,Prod_Decoración_14,9.0,5.0,2.86,45.0,25.74,Débito,19.26,08-Agosto,8,02-Regular
 TRX-104621,2023-08-01,1417,Argentina,Buenos Aires,Ropa,Dama,Prod_Dama_17,4.0,37.29,24.3,149.16,97.2,Efectivo,51.96,08-Agosto,8,02-Regular
 TRX-103264,2023-08-01,420,Perú,Trujillo,Ropa,Caballero,Prod_Caballero_13,9.0,36.97,23.16,332.73,208.44,Transferencia,124.29,08-Agosto,6,02-Regular
 TRX-113511,2023-08-01,1292,Chile,Valparaíso,Nan,Dama,Prod_Dama_10,2.0,58.64,33.42,117.28,66.84,Efectivo,50.44,08-Agosto,5,02-Regular
@@ -5825,7 +5823,7 @@ TRX-103633,2023-08-02,292,Perú,Trujillo,Hogar,Muebles,Prod_Muebles_16,4.0,47.63
 TRX-109590,2023-08-02,67,Perú,Nan,Ropa,Calzado,Prod_Calzado_12,5.0,36.62,22.64,183.1,113.2,Efectivo,69.9,08-Agosto,4,02-Regular
 TRX-108312,2023-08-02,741,Argentina,Rosario,Ropa,Infantil,Prod_Infantil_19,5.0,5.0,3.13,25.0,15.65,Crédito,9.35,08-Agosto,7,02-Regular
 TRX-102717,2023-08-02,1353,Perú,Lima,Hogar,Iluminación,Prod_Iluminación_16,3.0,52.21,39.54,156.63,118.62,Credito,38.01,08-Agosto,7,02-Regular
-TRX-101091,2023-08-02,1786,Perú,Trujillo,Electrónica,Accesorios,Prod_Accesorios_19,2.0,142.78,103.71,285.56,207.42,Nan,78.14,08-Agosto,8,02-Regular
+TRX-101091,2023-08-02,1786,Perú,Trujillo,Electrónica,Accesorios,Prod_Accesorios_19,2.0,142.78,103.71,285.56,207.42,Nan,78.14,08-Agosto,7,02-Regular
 TRX-105298,2023-08-02,1139,Chile,Valparaíso,Hogar,Cocina,Prod_Cocina_14,2.0,45.27,26.08,90.54,52.16,Efectivo,38.38,08-Agosto,9,02-Regular
 TRX-105548,2023-08-02,56,Perú,Trujillo,Ropa,Calzado,Prod_Calzado_14,4.0,45.6,24.86,182.4,99.44,Efectivo,82.96,08-Agosto,8,02-Regular
 TRX-102228,2023-08-02,397,Argentina,Córdoba,Electrónica,Laptops,Prod_Laptops_4,2.0,107.77,61.72,215.54,123.44,Débito,92.1,08-Agosto,8,02-Regular
@@ -6689,7 +6687,7 @@ TRX-106595,2023-09-03,195,Peru,Arequipa,Ropa,Infantil,Prod_Infantil_6,6.0,43.59,
 TRX-114991,2023-09-03,770,Chile,Santiago,Hogar,Decoración,Prod_Decoración_8,7.0,64.31,43.07,450.17,301.49,Débito,148.68,09-Septiembre,6,02-Regular
 TRX-110604,2023-09-03,1307,Perú,Lima,Ropa,Dama,Prod_Dama_11,5.0,50.95,32.19,254.75,160.95,Efectivo,93.8,09-Septiembre,7,02-Regular
 TRX-112298,2023-09-03,972,Argentina,Buenos Aires,Hogar,Decoración,Prod_Decoración_19,3.0,25.13,19.64,75.39,58.92,Crédito,16.47,09-Septiembre,8,02-Regular
-TRX-106409,2023-09-03,654,Perú,Trujillo,Ropa,Calzado,Prod_Calzado_17,1.0,49.33,35.56,49.33,35.56,Crédito,13.77,09-Septiembre,9,02-Regular
+TRX-106409,2023-09-03,654,Perú,Trujillo,Ropa,Calzado,Prod_Calzado_17,1.0,49.33,35.56,49.33,35.56,Crédito,13.77,09-Septiembre,8,02-Regular
 TRX-106336,2023-09-03,1402,Chile,Concepción,Ropa,Dama,Prod_Dama_16,7.0,41.93,26.14,293.51,182.98,Transferencia,110.53,09-Septiembre,12,01-Fiel (VIP)
 TRX-103707,2023-09-03,1272,Chile,Concepción,Hogar,Decoración,Prod_Decoración_5,1.0,40.42,24.26,40.42,24.26,Efectivo,16.16,09-Septiembre,4,02-Regular
 TRX-112326,2023-09-03,777,Perú,Trujillo,Hogar,Cocina,Prod_Cocina_11,7.0,22.22,14.95,155.54,104.65,Transferencia,50.89,09-Septiembre,6,02-Regular
@@ -6810,7 +6808,7 @@ TRX-100600,2023-09-07,256,Argentina,Rosario,Hogar,Cocina,Prod_Cocina_6,1.0,31.2,
 TRX-114613,2023-09-07,490,Chile,Santiago,Hogar,Iluminación,Prod_Iluminación_2,5.0,57.82,44.91,289.1,224.55,Transferencia,64.55,09-Septiembre,9,02-Regular
 TRX-105836,2023-09-07,123,Argentina,Rosario,Ropa,Infantil,Prod_Infantil_19,1.0,28.16,17.87,28.16,17.87,Transferencia,10.29,09-Septiembre,4,02-Regular
 TRX-104362,2023-09-07,1665,Argentina,Nan,Ropa,Infantil,Prod_Infantil_17,2.0,28.85,23.08,57.7,46.16,Crédito,11.54,09-Septiembre,13,01-Fiel (VIP)
-TRX-101785,2023-09-07,1915,Perú,Trujillo,Electrónica,Celulares,Prod_Celulares_19,1.0,151.53,118.72,151.53,118.72,Débito,32.81,09-Septiembre,6,02-Regular
+TRX-101785,2023-09-07,1915,Perú,Trujillo,Electrónica,Celulares,Prod_Celulares_19,1.0,151.53,118.72,151.53,118.72,Débito,32.81,09-Septiembre,5,02-Regular
 TRX-114026,2023-09-07,897,Argentina,Nan,Ropa,Caballero,Prod_Caballero_1,3.0,22.17,13.34,66.51,40.02,Débito,26.49,09-Septiembre,6,02-Regular
 TRX-114164,2023-09-07,549,Argentina,Rosario,Ropa,Calzado,Prod_Calzado_9,4.0,28.48,21.63,113.92,86.52,Transferencia,27.4,09-Septiembre,7,02-Regular
 TRX-109436,2023-09-08,738,Argentina,Córdoba,Ropa,Dama,Prod_Dama_1,7.0,37.39,19.81,261.73,138.67,Transferencia,123.06,09-Septiembre,9,02-Regular
@@ -7004,7 +7002,7 @@ TRX-104136,2023-09-15,1791,Argentina,Rosario,Electrónica,Accesorios,Prod_Acceso
 TRX-103262,2023-09-15,1949,Argentina,Rosario,Ropa,Dama,Prod_Dama_18,2.0,26.54,17.23,53.08,34.46,Crédito,18.62,09-Septiembre,2,03-Ocasional
 TRX-110479,2023-09-15,1894,Chile,Santiago,Ropa,Infantil,Prod_Infantil_12,4.0,22.66,17.62,90.64,70.48,Transferencia,20.16,09-Septiembre,2,03-Ocasional
 TRX-105390,2023-09-15,407,Chile,Valparaíso,Ropa,Caballero,Prod_Caballero_16,1.0,38.78,26.74,38.78,26.74,Transferencia,12.04,09-Septiembre,4,02-Regular
-TRX-106941,2023-09-15,1435,Argentina,Rosario,Ropa,Calzado,Prod_Calzado_15,9.0,41.34,31.6,372.06,284.4,Crédito,87.66,09-Septiembre,10,01-Fiel (VIP)
+TRX-106941,2023-09-15,1435,Argentina,Rosario,Ropa,Calzado,Prod_Calzado_15,9.0,41.34,31.6,372.06,284.4,Crédito,87.66,09-Septiembre,9,02-Regular
 TRX-105524,2023-09-15,520,Perú,Arequipa,Ropa,Dama,Prod_Dama_5,3.0,58.39,39.99,175.17,119.97,Débito,55.2,09-Septiembre,6,02-Regular
 TRX-100020,2023-09-15,1335,Argentina,Buenos Aires,Hogar,Cocina,Prod_Cocina_2,4.0,31.69,23.55,126.76,94.2,Efectivo,32.56,09-Septiembre,7,02-Regular
 TRX-113481,2023-09-15,1565,Perú,Lima,Electrónica,Celulares,Prod_Celulares_1,5.0,131.87,66.55,659.35,332.75,Débito,326.6,09-Septiembre,4,02-Regular
@@ -7085,7 +7083,7 @@ TRX-103160,2023-09-18,350,Argentina,Rosario,Hogar,Decoración,Prod_Decoración_1
 TRX-110580,2023-09-18,494,Argentina,Córdoba,Ropa,Dama,Prod_Dama_14,5.0,57.17,39.73,285.85,198.65,Efectivo,87.2,09-Septiembre,7,02-Regular
 TRX-105621,2023-09-18,1910,Chile,Santiago,Electrónica,Celulares,Prod_Celulares_15,1.0,97.48,70.04,97.48,70.04,Débito,27.44,09-Septiembre,6,02-Regular
 TRX-107279,2023-09-18,1156,Chile,Concepción,Ropa,Caballero,Prod_Caballero_12,4.0,37.45,24.98,149.8,99.92,Efectivo,49.88,09-Septiembre,9,02-Regular
-TRX-110941,2023-09-18,7,Perú,Trujillo,Hogar,Cocina,Prod_Cocina_3,8.0,43.98,34.9,351.84,279.2,Crédito,72.64,09-Septiembre,6,02-Regular
+TRX-110941,2023-09-18,7,Perú,Trujillo,Hogar,Cocina,Prod_Cocina_3,8.0,43.98,34.9,351.84,279.2,Crédito,72.64,09-Septiembre,5,02-Regular
 TRX-113429,2023-09-18,1852,Argentina,Rosario,Hogar,Cocina,Prod_Cocina_17,1.0,23.04,11.91,23.04,11.91,Efectivo,11.13,09-Septiembre,8,02-Regular
 TRX-101925,2023-09-18,1714,Argentina,Buenos Aires,Electrónica,Tablets,Prod_Tablets_14,3.0,71.43,37.82,214.29,113.46,Efectivo,100.83,09-Septiembre,6,02-Regular
 TRX-102430,2023-09-18,457,Argentina,Córdoba,Hogar,Muebles,Prod_Muebles_14,8.0,54.77,28.88,438.16,231.04,Transferencia,207.12,09-Septiembre,13,01-Fiel (VIP)
@@ -7131,7 +7129,7 @@ TRX-102773,2023-09-20,1145,Perú,Lima,Ropa,Infantil,Prod_Infantil_13,5.0,50.29,3
 TRX-100316,2023-09-20,1385,Argentina,Córdoba,Hogar,Muebles,Prod_Muebles_17,1.0,33.46,22.88,33.46,22.88,Débito,10.58,09-Septiembre,8,02-Regular
 TRX-103010,2023-09-20,1402,Perú,Trujillo,Ropa,Infantil,Prod_Infantil_9,2.0,40.49,20.54,80.98,41.08,Transferencia,39.9,09-Septiembre,12,01-Fiel (VIP)
 TRX-108375,2023-09-20,356,Perú,Arequipa,Hogar,Cocina,Prod_Cocina_13,8.0,43.97,31.94,351.76,255.52,Crédito,96.24,09-Septiembre,6,02-Regular
-TRX-111070,2023-09-21,1786,Argentina,Rosario,Hogar,Iluminación,Prod_Iluminación_5,7.0,21.17,16.08,148.19,112.56,Efectivo,35.63,09-Septiembre,8,02-Regular
+TRX-111070,2023-09-21,1786,Argentina,Rosario,Hogar,Iluminación,Prod_Iluminación_5,7.0,21.17,16.08,148.19,112.56,Efectivo,35.63,09-Septiembre,7,02-Regular
 TRX-104579,2023-09-21,1404,Perú,Lima,Ropa,Infantil,Prod_Infantil_14,8.0,18.84,13.76,150.72,110.08,Débito,40.64,09-Septiembre,7,02-Regular
 TRX-106160,2023-09-21,25,Argentina,Córdoba,Hogar,Iluminación,Prod_Iluminación_12,7.0,23.37,16.25,163.59,113.75,Efectivo,49.84,09-Septiembre,4,02-Regular
 TRX-114077,2023-09-21,973,Argentina,Buenos Aires,Hogar,Decoración,Prod_Decoración_11,4.0,32.39,24.14,129.56,96.56,Credito,33.0,09-Septiembre,8,02-Regular
@@ -7174,7 +7172,7 @@ TRX-109916,2023-09-22,125,Perú,Lima,Ropa,Caballero,Prod_Caballero_14,1.0,32.32,
 TRX-104968,2023-09-22,1922,Chile,Valparaíso,Electrónica,Laptops,Prod_Laptops_13,2.0,108.77,81.62,217.54,163.24,Efectivo,54.3,09-Septiembre,7,02-Regular
 TRX-104037,2023-09-22,349,Argentina,Rosario,Hogar,Muebles,Prod_Muebles_10,8.0,59.78,36.66,478.24,293.28,Efectivo,184.96,09-Septiembre,7,02-Regular
 TRX-100705,2023-09-22,186,Peru,Arequipa,Ropa,Dama,Prod_Dama_4,6.0,25.38,19.16,152.28,114.96,Débito,37.32,09-Septiembre,8,02-Regular
-TRX-108307,2023-09-22,1915,Perú,Lima,Hogar,Cocina,Prod_Cocina_9,7.0,19.21,10.8,134.47,75.6,Efectivo,58.87,09-Septiembre,6,02-Regular
+TRX-108307,2023-09-22,1915,Perú,Lima,Hogar,Cocina,Prod_Cocina_9,7.0,19.21,10.8,134.47,75.6,Efectivo,58.87,09-Septiembre,5,02-Regular
 TRX-114236,2023-09-22,614,Perú,Trujillo,Ropa,Infantil,Prod_Infantil_8,7.0,47.76,32.02,334.32,224.14,Credito,110.18,09-Septiembre,11,01-Fiel (VIP)
 TRX-114602,2023-09-22,1843,Chile,Santiago,Ropa,Caballero,Prod_Caballero_4,5.0,50.29,34.83,251.45,174.15,Débito,77.3,09-Septiembre,9,02-Regular
 TRX-113359,2023-09-22,1436,Chile,Concepción,Hogar,Cocina,Prod_Cocina_11,1.0,46.81,32.36,46.81,32.36,Débito,14.45,09-Septiembre,4,02-Regular
@@ -7306,7 +7304,7 @@ TRX-110650,2023-09-27,550,Perú,Arequipa,Ropa,Caballero,Prod_Caballero_7,1.0,38.
 TRX-110184,2023-09-27,1837,Chile,Valparaíso,Electrónica,Accesorios,Prod_Accesorios_1,1.0,98.7,51.32,98.7,51.32,Crédito,47.38,09-Septiembre,10,01-Fiel (VIP)
 TRX-113130,2023-09-27,1988,Perú,Lima,Hogar,Cocina,Prod_Cocina_10,3.0,35.33,25.45,105.99,76.35,Débito,29.64,09-Septiembre,7,02-Regular
 TRX-110142,2023-09-27,1801,Chile,Santiago,Ropa,Infantil,Prod_Infantil_7,9.0,23.97,14.1,215.73,126.9,Débito,88.83,09-Septiembre,9,02-Regular
-TRX-102094,2023-09-27,7,Chile,Nan,Ropa,Caballero,Prod_Caballero_14,9.0,42.01,22.09,378.09,198.81,Efectivo,179.28,09-Septiembre,6,02-Regular
+TRX-102094,2023-09-27,7,Chile,Nan,Ropa,Caballero,Prod_Caballero_14,9.0,42.01,22.09,378.09,198.81,Efectivo,179.28,09-Septiembre,5,02-Regular
 TRX-101280,2023-09-27,479,Chile,Santiago,Ropa,Caballero,Prod_Caballero_9,4.0,41.01,22.08,164.04,88.32,Transferencia,75.72,09-Septiembre,6,02-Regular
 TRX-103859,2023-09-27,854,Chile,Santiago,Electrónica,Celulares,Prod_Celulares_16,3.0,152.7,96.54,458.1,289.62,Transferencia,168.48,09-Septiembre,8,02-Regular
 TRX-108098,2023-09-27,1429,Chile,Santiago,Electrónica,Tablets,Prod_Tablets_4,1.0,132.45,94.92,132.45,94.92,Débito,37.53,09-Septiembre,6,02-Regular
@@ -7754,7 +7752,7 @@ TRX-110228,2023-10-13,892,Argentina,Buenos Aires,Hogar,Muebles,Prod_Muebles_19,6
 TRX-100687,2023-10-13,1586,Argentina,Rosario,Electrónica,Accesorios,Prod_Accesorios_16,5.0,164.88,108.87,824.4,544.35,Efectivo,280.05,10-Octubre,7,02-Regular
 TRX-106828,2023-10-13,1166,Perú,Lima,Hogar,Decoración,Prod_Decoración_10,1.0,21.01,10.89,21.01,10.89,Efectivo,10.12,10-Octubre,5,02-Regular
 TRX-110363,2023-10-13,339,Argentina,Rosario,Ropa,Infantil,Prod_Infantil_4,4.0,32.7,16.88,130.8,67.52,Crédito,63.28,10-Octubre,9,02-Regular
-TRX-101666,2023-10-14,1596,Perú,Arequipa,Electrónica,Celulares,Prod_Celulares_6,1.0,209.12,109.07,209.12,109.07,Efectivo,100.05,10-Octubre,6,02-Regular
+TRX-101666,2023-10-14,1596,Perú,Arequipa,Electrónica,Celulares,Prod_Celulares_6,1.0,209.12,109.07,209.12,109.07,Efectivo,100.05,10-Octubre,5,02-Regular
 TRX-102438,2023-10-14,625,Chile,Santiago,Ropa,Infantil,Prod_Infantil_19,7.0,60.36,36.6,422.52,256.2,Débito,166.32,10-Octubre,7,02-Regular
 TRX-102844,2023-10-14,874,Perú,Trujillo,Hogar,Decoración,Prod_Decoración_15,4.0,50.6,38.99,202.4,155.96,Transferencia,46.44,10-Octubre,8,02-Regular
 TRX-106358,2023-10-14,245,Chile,Valparaíso,Electrónica,Celulares,Prod_Celulares_8,6.0,145.05,89.62,870.3,537.72,Nan,332.58,10-Octubre,12,01-Fiel (VIP)
@@ -7804,7 +7802,7 @@ TRX-103225,2023-10-15,1141,Argentina,Córdoba,Nan,Decoración,Prod_Decoración_2
 TRX-113519,2023-10-15,284,Argentina,Rosario,Ropa,Caballero,Prod_Caballero_1,5.0,13.2,8.94,66.0,44.7,Efectivo,21.3,10-Octubre,11,01-Fiel (VIP)
 TRX-102971,2023-10-15,1352,Argentina,Buenos Aires,Ropa,Calzado,Prod_Calzado_10,8.0,41.78,22.54,334.24,180.32,Débito,153.92,10-Octubre,8,02-Regular
 TRX-106056,2023-10-15,923,Chile,Nan,Hogar,Decoración,Prod_Decoración_15,5.0,5.0,3.91,25.0,19.55,Efectivo,5.45,10-Octubre,2,03-Ocasional
-TRX-108494,2023-10-15,1435,Perú,Arequipa,Hogar,Muebles,Prod_Muebles_10,8.0,48.22,30.32,385.76,242.56,Efectivo,143.2,10-Octubre,10,01-Fiel (VIP)
+TRX-108494,2023-10-15,1435,Perú,Arequipa,Hogar,Muebles,Prod_Muebles_10,8.0,48.22,30.32,385.76,242.56,Efectivo,143.2,10-Octubre,9,02-Regular
 TRX-100445,2023-10-15,13,Chile,Valparaíso,Ropa,Infantil,Prod_Infantil_8,2.0,46.39,35.75,92.78,71.5,Débito,21.28,10-Octubre,12,01-Fiel (VIP)
 TRX-100943,2023-10-15,454,Argentina,Rosario,Ropa,Caballero,Prod_Caballero_1,9.0,54.09,31.14,486.81,280.26,Crédito,206.55,10-Octubre,6,02-Regular
 TRX-107094,2023-10-15,1934,Chile,Valparaíso,Hogar,Decoración,Prod_Decoración_16,6.0,77.96,61.45,467.76,368.7,Transferencia,99.06,10-Octubre,2,03-Ocasional
@@ -7898,7 +7896,7 @@ TRX-108277,2023-10-18,1420,Perú,Lima,Nan,Caballero,Prod_Caballero_15,2.0,66.43,
 TRX-113820,2023-10-18,477,Chile,Concepción,Electrónica,Laptops,Prod_Laptops_13,5.0,156.2,115.9,781.0,579.5,Nan,201.5,10-Octubre,6,02-Regular
 TRX-113113,2023-10-18,1131,Perú,Arequipa,Electrónica,Laptops,Prod_Laptops_13,7.0,120.08,68.69,840.56,480.83,Credito,359.73,10-Octubre,4,02-Regular
 TRX-108989,2023-10-18,1077,Chile,Valparaíso,Ropa,Caballero,Prod_Caballero_14,6.0,62.06,45.71,372.36,274.26,Crédito,98.1,10-Octubre,8,02-Regular
-TRX-105349,2023-10-18,654,Chl,Santiago,Hogar,Cocina,Prod_Cocina_16,8.0,25.13,18.05,201.04,144.4,Transferencia,56.64,10-Octubre,9,02-Regular
+TRX-105349,2023-10-18,654,Chl,Santiago,Hogar,Cocina,Prod_Cocina_16,8.0,25.13,18.05,201.04,144.4,Transferencia,56.64,10-Octubre,8,02-Regular
 TRX-109627,2023-10-18,1734,Perú,Arequipa,Ropa,Dama,Prod_Dama_1,8.0,67.78,50.61,542.24,404.88,Crédito,137.36,10-Octubre,8,02-Regular
 TRX-106879,2023-10-18,754,Chile,Santiago,Hogar,Cocina,Prod_Cocina_8,4.0,27.31,15.7,109.24,62.8,Crédito,46.44,10-Octubre,7,02-Regular
 TRX-111169,2023-10-18,266,Arg,Córdoba,Ropa,Infantil,Prod_Infantil_18,3.0,39.67,23.12,119.01,69.36,Transferencia,49.65,10-Octubre,10,01-Fiel (VIP)
@@ -8228,7 +8226,7 @@ TRX-100093,2023-10-31,1280,Perú,Trujillo,Hogar,Cocina,Prod_Cocina_12,6.0,29.9,1
 TRX-110493,2023-10-31,1952,Chile,Concepción,Hogar,Iluminación,Prod_Iluminación_10,1.0,57.47,41.98,57.47,41.98,Crédito,15.49,10-Octubre,13,01-Fiel (VIP)
 TRX-114578,2023-10-31,1380,Perú,Nan,Hogar,Iluminación,Prod_Iluminación_17,7.0,19.18,11.57,134.26,80.99,Transferencia,53.27,10-Octubre,8,02-Regular
 TRX-114707,2023-10-31,661,Chile,Santiago,Electrónica,Tablets,Prod_Tablets_11,1.0,147.65,112.96,147.65,112.96,Débito,34.69,10-Octubre,9,02-Regular
-TRX-114554,2023-10-31,654,Argentina,Córdoba,Ropa,Dama,Prod_Dama_19,6.0,40.49,27.58,242.94,165.48,Débito,77.46,10-Octubre,9,02-Regular
+TRX-114554,2023-10-31,654,Argentina,Córdoba,Ropa,Dama,Prod_Dama_19,6.0,40.49,27.58,242.94,165.48,Débito,77.46,10-Octubre,8,02-Regular
 TRX-102623,2023-10-31,1804,Chile,Valparaíso,Hogar,Cocina,Prod_Cocina_15,6.0,39.74,20.61,238.44,123.66,Crédito,114.78,10-Octubre,5,02-Regular
 TRX-105996,2023-10-31,1342,Argentina,Nan,Nan,Muebles,Prod_Muebles_2,8.0,27.63,15.44,221.04,123.52,Débito,97.52,10-Octubre,7,02-Regular
 TRX-102012,2023-10-31,1828,Perú,Lima,Electrónica,Celulares,Prod_Celulares_5,3.0,155.35,78.6,466.05,235.8,Efectivo,230.25,10-Octubre,6,02-Regular
@@ -8396,7 +8394,7 @@ TRX-100083,2023-11-06,1092,Arg.,Córdoba,Ropa,Caballero,Prod_Caballero_13,1.0,67
 TRX-106485,2023-11-06,1806,Argentina,Córdoba,Ropa,Calzado,Prod_Calzado_15,4.0,46.03,26.98,184.12,107.92,Transferencia,76.2,11-Noviembre,3,03-Ocasional
 TRX-105139,2023-11-06,1793,Argentina,Córdoba,Hogar,Iluminación,Prod_Iluminación_3,8.0,58.17,29.91,465.36,239.28,Transferencia,226.08,11-Noviembre,11,01-Fiel (VIP)
 TRX-103354,2023-11-06,1609,Chile,Santiago,Ropa,Caballero,Prod_Caballero_3,7.0,33.52,22.17,234.64,155.19,Efectivo,79.45,11-Noviembre,9,02-Regular
-TRX-110070,2023-11-06,654,Argentina,Córdoba,Nan,Decoración,Prod_Decoración_1,4.0,5.0,3.21,20.0,12.84,Transferencia,7.16,11-Noviembre,9,02-Regular
+TRX-110070,2023-11-06,654,Argentina,Córdoba,Nan,Decoración,Prod_Decoración_1,4.0,5.0,3.21,20.0,12.84,Transferencia,7.16,11-Noviembre,8,02-Regular
 TRX-101702,2023-11-06,1742,Chile,Valparaíso,Ropa,Calzado,Prod_Calzado_8,3.0,38.8,23.24,116.4,69.72,Débito,46.68,11-Noviembre,9,02-Regular
 TRX-104034,2023-11-06,345,Argentina,Rosario,Electrónica,Tablets,Prod_Tablets_11,6.0,94.25,59.91,565.5,359.46,Efectivo,206.04,11-Noviembre,14,01-Fiel (VIP)
 TRX-102945,2023-11-06,1920,Chile,Valparaíso,Ropa,Caballero,Prod_Caballero_6,2.0,27.11,19.03,54.22,38.06,Débito,16.16,11-Noviembre,9,02-Regular
@@ -8741,7 +8739,6 @@ TRX-111703,2023-11-19,1175,Chile,Concepción,Electrónica,Laptops,Prod_Laptops_6
 TRX-104402,2023-11-19,1745,Chile,Santiago,Ropa,Dama,Prod_Dama_17,9.0,39.9,26.06,359.1,234.54,Débito,124.56,11-Noviembre,7,02-Regular
 TRX-100627,2023-11-19,457,Chile,Valparaíso,Electrónica,Celulares,Prod_Celulares_19,1.0,203.83,146.81,203.83,146.81,Débito,57.02,11-Noviembre,13,01-Fiel (VIP)
 TRX-109394,2023-11-19,1420,Argentina,Rosario,Electrónica,Tablets,Prod_Tablets_19,3.0,113.12,80.46,339.36,241.38,Efectivo,97.98,11-Noviembre,4,02-Regular
-TRX-101995,2023-11-19,971,Argentina,Córdoba,Hogar,Muebles,Prod_Muebles_2,-3.0,49.44,32.01,-148.32,-96.03,Crédito,-52.29,11-Noviembre,6,02-Regular
 TRX-102776,2023-11-19,1809,Chile,Santiago,Hogar,Cocina,Prod_Cocina_11,8.0,65.16,52.12,521.28,416.96,Débito,104.32,11-Noviembre,9,02-Regular
 TRX-110970,2023-11-19,1793,Perú,Lima,Ropa,Caballero,Prod_Caballero_8,8.0,9.48,6.2,75.84,49.6,Efectivo,26.24,11-Noviembre,11,01-Fiel (VIP)
 TRX-105077,2023-11-19,1961,Perú,Arequipa,Electrónica,Accesorios,Prod_Accesorios_3,5.0,129.05,95.71,645.25,478.55,Débito,166.7,11-Noviembre,9,02-Regular
@@ -8904,7 +8901,7 @@ TRX-103848,2023-11-24,1571,Argentina,Buenos Aires,Ropa,Infantil,Prod_Infantil_12
 TRX-108840,2023-11-24,127,Chile,Santiago,Ropa,Dama,Prod_Dama_1,7.0,27.8,14.1,194.6,98.7,Efectivo,95.9,11-Noviembre,7,02-Regular
 TRX-108156,2023-11-24,1471,Chile,Valparaíso,Electrónica,Laptops,Prod_Laptops_6,4.0,161.7,91.9,646.8,367.6,Efectivo,279.2,11-Noviembre,6,02-Regular
 TRX-107849,2023-11-24,553,Perú,Arequipa,Ropa,Dama,Prod_Dama_11,1.0,45.69,27.58,45.69,27.58,Débito,18.11,11-Noviembre,3,03-Ocasional
-TRX-110945,2023-11-24,1435,Perú,Lima,Nan,Calzado,Prod_Calzado_13,7.0,27.85,14.03,194.95,98.21,Débito,96.74,11-Noviembre,10,01-Fiel (VIP)
+TRX-110945,2023-11-24,1435,Perú,Lima,Nan,Calzado,Prod_Calzado_13,7.0,27.85,14.03,194.95,98.21,Débito,96.74,11-Noviembre,9,02-Regular
 TRX-109953,2023-11-24,1818,Argentina,Buenos Aires,Hogar,Decoración,Prod_Decoración_18,5.0,23.41,12.24,117.05,61.2,Débito,55.85,11-Noviembre,8,02-Regular
 TRX-113712,2023-11-24,1215,Chile,Nan,Hogar,Muebles,Prod_Muebles_18,2.0,31.54,19.69,63.08,39.38,Débito,23.7,11-Noviembre,8,02-Regular
 TRX-108835,2023-11-24,1880,Perú,Lima,Ropa,Calzado,Prod_Calzado_12,2.0,52.22,30.83,104.44,61.66,Crédito,42.78,11-Noviembre,4,02-Regular
@@ -9049,7 +9046,7 @@ TRX-110254,2023-11-29,1257,Perú,Trujillo,Hogar,Iluminación,Prod_Iluminación_1
 TRX-113929,2023-11-29,1143,Perú,Arequipa,Hogar,Muebles,Prod_Muebles_5,2.0,43.85,22.81,87.7,45.62,Efectivo,42.08,11-Noviembre,3,03-Ocasional
 TRX-101899,2023-11-29,17,Chile,Santiago,Hogar,Muebles,Prod_Muebles_17,2.0,37.76,21.18,75.52,42.36,Transferencia,33.16,11-Noviembre,5,02-Regular
 TRX-103134,2023-11-29,1234,Chile,Valparaíso,Electrónica,Laptops,Prod_Laptops_4,1.0,147.98,81.07,147.98,81.07,Débito,66.91,11-Noviembre,8,02-Regular
-TRX-107838,2023-11-29,7,Perú,Lima,Hogar,Iluminación,Prod_Iluminación_11,5.0,16.49,11.21,82.45,56.05,Efectivo,26.4,11-Noviembre,6,02-Regular
+TRX-107838,2023-11-29,7,Perú,Lima,Hogar,Iluminación,Prod_Iluminación_11,5.0,16.49,11.21,82.45,56.05,Efectivo,26.4,11-Noviembre,5,02-Regular
 TRX-113464,2023-11-29,587,Chile,Santiago,Ropa,Dama,Prod_Dama_2,3.0,35.38,20.23,106.14,60.69,Débito,45.45,11-Noviembre,7,02-Regular
 TRX-111351,2023-11-30,222,Argentina,Rosario,Hogar,Iluminación,Prod_Iluminación_18,2.0,31.79,18.08,63.58,36.16,Crédito,27.42,11-Noviembre,9,02-Regular
 TRX-107737,2023-11-30,1591,Chile,Santiago,Hogar,Decoración,Prod_Decoración_4,7.0,26.74,18.16,187.18,127.12,Efectivo,60.06,11-Noviembre,8,02-Regular
@@ -9172,7 +9169,6 @@ TRX-101078,2023-12-03,513,Chile,Concepción,Ropa,Dama,Prod_Dama_14,6.0,46.97,23.
 TRX-106426,2023-12-03,970,Argentina,Rosario,Ropa,Infantil,Prod_Infantil_19,6.0,46.73,25.36,280.38,152.16,Nan,128.22,12-Diciembre,5,02-Regular
 TRX-100644,2023-12-03,506,Chile,Valparaíso,Hogar,Muebles,Prod_Muebles_8,6.0,17.89,12.28,107.34,73.68,Transferencia,33.66,12-Diciembre,8,02-Regular
 TRX-107504,2023-12-03,1073,Argentina,Buenos Aires,Electrónica,Celulares,Prod_Celulares_16,2.0,201.37,107.51,402.74,215.02,Transferencia,187.72,12-Diciembre,7,02-Regular
-TRX-113055,2023-12-03,1786,Argentina,Rosario,Electrónica,Laptops,Prod_Laptops_10,-1.0,249.58,136.14,-249.58,-136.14,Crédito,-113.44,12-Diciembre,8,02-Regular
 TRX-104528,2023-12-03,860,Chile,Santiago,Ropa,Dama,Prod_Dama_14,7.0,35.49,20.86,248.43,146.02,Transferencia,102.41,12-Diciembre,4,02-Regular
 TRX-101718,2023-12-03,497,Chile,Valparaíso,Ropa,Infantil,Prod_Infantil_4,6.0,23.81,15.99,142.86,95.94,Débito,46.92,12-Diciembre,9,02-Regular
 TRX-103171,2023-12-03,552,Perú,Trujillo,Hogar,Muebles,Prod_Muebles_15,1.0,43.28,29.69,43.28,29.69,Crédito,13.59,12-Diciembre,11,01-Fiel (VIP)
@@ -9234,7 +9230,7 @@ TRX-112707,2023-12-05,1453,Chile,Concepción,Hogar,Muebles,Prod_Muebles_1,9.0,22
 TRX-102589,2023-12-05,286,Chile,Santiago,Ropa,Caballero,Prod_Caballero_10,4.0,51.47,32.04,205.88,128.16,Efectivo,77.72,12-Diciembre,7,02-Regular
 TRX-106499,2023-12-05,1984,Argentina,Rosario,Ropa,Infantil,Prod_Infantil_11,4.0,63.19,46.8,252.76,187.2,Efectivo,65.56,12-Diciembre,5,02-Regular
 TRX-105757,2023-12-05,443,Perú,Arequipa,Ropa,Caballero,Prod_Caballero_15,5.0,40.9,22.39,204.5,111.95,Débito,92.55,12-Diciembre,3,03-Ocasional
-TRX-107091,2023-12-05,431,Argentina,Rosario,Electrónica,Celulares,Prod_Celulares_2,3.0,176.33,104.6,528.99,313.8,Crédito,215.19,12-Diciembre,3,03-Ocasional
+TRX-107091,2023-12-05,431,Argentina,Rosario,Electrónica,Celulares,Prod_Celulares_2,3.0,176.33,104.6,528.99,313.8,Crédito,215.19,12-Diciembre,2,03-Ocasional
 TRX-113383,2023-12-05,878,Argentina,Rosario,Hogar,Cocina,Prod_Cocina_2,6.0,54.15,37.31,324.9,223.86,Efectivo,101.04,12-Diciembre,12,01-Fiel (VIP)
 TRX-112716,2023-12-05,1072,Chile,Santiago,Hogar,Iluminación,Prod_Iluminación_11,9.0,36.29,24.94,326.61,224.46,Crédito,102.15,12-Diciembre,8,02-Regular
 TRX-105802,2023-12-05,393,Chile,Valparaíso,Hogar,Muebles,Prod_Muebles_2,6.0,45.82,25.57,274.92,153.42,Transferencia,121.5,12-Diciembre,7,02-Regular
@@ -9280,7 +9276,7 @@ TRX-108638,2023-12-07,1956,Perú,Trujillo,Ropa,Caballero,Prod_Caballero_14,7.0,4
 TRX-114703,2023-12-07,751,Chile,Nan,Hogar,Muebles,Prod_Muebles_8,3.0,21.5,16.24,64.5,48.72,Efectivo,15.78,12-Diciembre,7,02-Regular
 TRX-114410,2023-12-07,621,Argentina,Córdoba,Ropa,Calzado,Prod_Calzado_16,2.0,45.09,33.11,90.18,66.22,Crédito,23.96,12-Diciembre,3,03-Ocasional
 TRX-102527,2023-12-07,321,Perú,Trujillo,Ropa,Caballero,Prod_Caballero_1,7.0,38.92,27.91,272.44,195.37,Transferencia,77.07,12-Diciembre,6,02-Regular
-TRX-105523,2023-12-07,1435,Chile,Santiago,Hogar,Cocina,Prod_Cocina_3,6.0,25.53,18.88,153.18,113.28,Débito,39.9,12-Diciembre,10,01-Fiel (VIP)
+TRX-105523,2023-12-07,1435,Chile,Santiago,Hogar,Cocina,Prod_Cocina_3,6.0,25.53,18.88,153.18,113.28,Débito,39.9,12-Diciembre,9,02-Regular
 TRX-108946,2023-12-07,403,Perú,Arequipa,Hogar,Iluminación,Prod_Iluminación_2,2.0,36.31,19.77,72.62,39.54,Débito,33.08,12-Diciembre,10,01-Fiel (VIP)
 TRX-107115,2023-12-07,350,Perú,Lima,Hogar,Iluminación,Prod_Iluminación_15,4.0,30.49,20.32,121.96,81.28,Débito,40.68,12-Diciembre,7,02-Regular
 TRX-111625,2023-12-07,203,Chile,Santiago,Ropa,Caballero,Prod_Caballero_7,5.0,50.0,34.23,250.0,171.15,Transferencia,78.85,12-Diciembre,10,01-Fiel (VIP)
@@ -9289,10 +9285,10 @@ TRX-105566,2023-12-07,1968,Perú,Lima,Hogar,Muebles,Prod_Muebles_15,5.0,42.0,26.
 TRX-108050,2023-12-07,1513,Argentina,Rosario,Ropa,Infantil,Prod_Infantil_16,9.0,40.02,22.15,360.18,199.35,Transferencia,160.83,12-Diciembre,7,02-Regular
 TRX-107088,2023-12-07,1236,Perú,Arequipa,Electrónica,Laptops,Prod_Laptops_10,6.0,139.57,108.85,837.42,653.1,Efectivo,184.32,12-Diciembre,7,02-Regular
 TRX-100972,2023-12-07,1307,Argentina,Buenos Aires,Ropa,Dama,Prod_Dama_15,9.0,44.42,25.58,399.78,230.22,Transferencia,169.56,12-Diciembre,7,02-Regular
-TRX-105440,2023-12-07,971,Perú,Lima,Hogar,Iluminación,Prod_Iluminación_11,4.0,53.7,38.41,214.8,153.64,Efectivo,61.16,12-Diciembre,6,02-Regular
+TRX-105440,2023-12-07,971,Perú,Lima,Hogar,Iluminación,Prod_Iluminación_11,4.0,53.7,38.41,214.8,153.64,Efectivo,61.16,12-Diciembre,5,02-Regular
 TRX-103559,2023-12-07,671,Chile,Valparaíso,Ropa,Dama,Prod_Dama_19,9.0,47.01,24.7,423.09,222.3,Efectivo,200.79,12-Diciembre,8,02-Regular
 TRX-104322,2023-12-07,628,Chile,Valparaíso,Hogar,Decoración,Prod_Decoración_11,2.0,43.06,32.43,86.12,64.86,Crédito,21.26,12-Diciembre,4,02-Regular
-TRX-109104,2023-12-07,1596,Chile,Concepción,Electrónica,Laptops,Prod_Laptops_2,5.0,114.11,90.76,570.55,453.8,Transferencia,116.75,12-Diciembre,6,02-Regular
+TRX-109104,2023-12-07,1596,Chile,Concepción,Electrónica,Laptops,Prod_Laptops_2,5.0,114.11,90.76,570.55,453.8,Transferencia,116.75,12-Diciembre,5,02-Regular
 TRX-100767,2023-12-08,1585,Perú,Trujillo,Electrónica,Celulares,Prod_Celulares_16,4.0,152.23,117.28,608.92,469.12,Efectivo,139.8,12-Diciembre,7,02-Regular
 TRX-114642,2023-12-08,1168,Argentina,Rosario,Electrónica,Tablets,Prod_Tablets_17,4.0,139.6,83.46,558.4,333.84,Transferencia,224.56,12-Diciembre,11,01-Fiel (VIP)
 TRX-100908,2023-12-08,1971,Peru,Trujillo,Electrónica,Accesorios,Prod_Accesorios_1,4.0,61.69,36.19,246.76,144.76,Debito,102.0,12-Diciembre,6,02-Regular
@@ -9425,7 +9421,7 @@ TRX-112830,2023-12-13,577,Argentina,Rosario,Ropa,Infantil,Prod_Infantil_14,8.0,4
 TRX-110535,2023-12-13,239,Chile,Santiago,Electrónica,Accesorios,Prod_Accesorios_10,7.0,123.29,68.07,863.03,476.49,Transferencia,386.54,12-Diciembre,8,02-Regular
 TRX-110761,2023-12-13,1142,Chile,Santiago,Ropa,Infantil,Prod_Infantil_13,9.0,17.31,8.84,155.79,79.56,Débito,76.23,12-Diciembre,2,03-Ocasional
 TRX-102733,2023-12-13,1696,Perú,Arequipa,Ropa,Dama,Prod_Dama_15,9.0,37.26,18.65,335.34,167.85,Débito,167.49,12-Diciembre,6,02-Regular
-TRX-102000,2023-12-13,1596,Argentina,Buenos Aires,Ropa,Infantil,Prod_Infantil_2,3.0,37.96,25.83,113.88,77.49,Débito,36.39,12-Diciembre,6,02-Regular
+TRX-102000,2023-12-13,1596,Argentina,Buenos Aires,Ropa,Infantil,Prod_Infantil_2,3.0,37.96,25.83,113.88,77.49,Débito,36.39,12-Diciembre,5,02-Regular
 TRX-101460,2023-12-13,1801,Perú,Trujillo,Hogar,Iluminación,Prod_Iluminación_6,2.0,42.01,27.22,84.02,54.44,Efectivo,29.58,12-Diciembre,9,02-Regular
 TRX-113737,2023-12-13,1431,Perú,Lima,Hogar,Decoración,Prod_Decoración_17,9.0,13.77,10.08,123.93,90.72,Efectivo,33.21,12-Diciembre,8,02-Regular
 TRX-109775,2023-12-13,1264,Perú,Arequipa,Ropa,Calzado,Prod_Calzado_11,4.0,65.56,49.2,262.24,196.8,Débito,65.44,12-Diciembre,7,02-Regular
@@ -10023,7 +10019,6 @@ TRX-104212,2024-01-04,1836,Argentina,Nan,Hogar,Cocina,Prod_Cocina_1,7.0,39.46,27
 TRX-104395,2024-01-04,295,Perú,Lima,Ropa,Infantil,Prod_Infantil_17,9.0,21.13,13.18,190.17,118.62,Transferencia,71.55,01-Enero,6,02-Regular
 TRX-110375,2024-01-04,1397,Perú,Lima,Ropa,Caballero,Prod_Caballero_6,8.0,61.36,49.06,490.88,392.48,Crédito,98.4,01-Enero,7,02-Regular
 TRX-105434,2024-01-05,1920,Chile,Valparaíso,Electrónica,Celulares,Prod_Celulares_3,4.0,204.62,162.61,818.48,650.44,Crédito,168.04,01-Enero,9,02-Regular
-TRX-112831,2024-01-05,7,Perú,Trujillo,Electrónica,Celulares,Prod_Celulares_17,-3.0,99.27,49.81,-297.81,-149.43,Crédito,-148.38,01-Enero,6,02-Regular
 TRX-106544,2024-01-05,643,Argentina,Buenos Aires,Hogar,Muebles,Prod_Muebles_17,5.0,45.36,33.27,226.8,166.35,Crédito,60.45,01-Enero,3,03-Ocasional
 TRX-103192,2024-01-05,1365,Chile,Santiago,Electrónica,Accesorios,Prod_Accesorios_1,1.0,114.32,72.92,114.32,72.92,Débito,41.4,01-Enero,10,01-Fiel (VIP)
 TRX-104839,2024-01-05,1469,Perú,Trujillo,Ropa,Calzado,Prod_Calzado_5,4.0,49.5,34.77,198.0,139.08,Transferencia,58.92,01-Enero,3,03-Ocasional
@@ -10459,8 +10454,7 @@ TRX-102705,2024-01-20,578,Perú,Trujillo,Electronica,Celulares,Prod_Celulares_5,
 TRX-105065,2024-01-20,1776,Argentina,Nan,Hogar,Iluminación,Prod_Iluminación_2,2.0,56.06,39.97,112.12,79.94,Débito,32.18,01-Enero,7,02-Regular
 TRX-111162,2024-01-20,1212,Perú,Arequipa,Ropa,Caballero,Prod_Caballero_7,3.0,40.02,21.57,120.06,64.71,Transferencia,55.35,01-Enero,5,02-Regular
 TRX-109360,2024-01-20,1477,Perú,Lima,Hogar,Iluminación,Prod_Iluminación_12,1.0,18.16,11.48,18.16,11.48,Crédito,6.68,01-Enero,7,02-Regular
-TRX-111801,2024-01-20,1435,Perú,Lima,Hogar,Decoración,Prod_Decoración_13,8.0,23.33,13.11,186.64,104.88,Débito,81.76,01-Enero,10,01-Fiel (VIP)
-TRX-101526,2024-01-20,1435,Perú,Arequipa,Hogar,Decoración,Prod_Decoración_6,-1.0,29.93,19.66,-29.93,-19.66,Efectivo,-10.27,01-Enero,10,01-Fiel (VIP)
+TRX-111801,2024-01-20,1435,Perú,Lima,Hogar,Decoración,Prod_Decoración_13,8.0,23.33,13.11,186.64,104.88,Débito,81.76,01-Enero,9,02-Regular
 TRX-112469,2024-01-21,120,Argentina,Buenos Aires,Ropa,Infantil,Prod_Infantil_3,1.0,22.7,17.55,22.7,17.55,Crédito,5.15,01-Enero,5,02-Regular
 TRX-113628,2024-01-21,1542,Perú,Trujillo,Ropa,Dama,Prod_Dama_16,1.0,19.17,10.45,19.17,10.45,Efectivo,8.72,01-Enero,5,02-Regular
 TRX-107131,2024-01-21,815,Perú,Lima,Hogar,Muebles,Prod_Muebles_18,4.0,25.29,13.97,101.16,55.88,Crédito,45.28,01-Enero,5,02-Regular
@@ -10491,7 +10485,7 @@ TRX-101596,2024-01-21,325,Argentina,Buenos Aires,Hogar,Iluminación,Prod_Ilumina
 TRX-109838,2024-01-21,113,Perú,Nan,Hogar,Muebles,Prod_Muebles_15,1.0,44.64,28.4,44.64,28.4,Efectivo,16.24,01-Enero,9,02-Regular
 TRX-105884,2024-01-21,1297,Chile,Santiago,Ropa,Infantil,Prod_Infantil_6,4.0,14.23,9.64,56.92,38.56,Crédito,18.36,01-Enero,10,01-Fiel (VIP)
 TRX-114089,2024-01-22,859,Perú,Arequipa,Electrónica,Accesorios,Prod_Accesorios_13,2.0,174.09,131.86,348.18,263.72,Transferencia,84.46,01-Enero,8,02-Regular
-TRX-110598,2024-01-22,654,Chile,Santiago,Hogar,Muebles,Prod_Muebles_13,6.0,45.01,25.81,270.06,154.86,Transferencia,115.2,01-Enero,9,02-Regular
+TRX-110598,2024-01-22,654,Chile,Santiago,Hogar,Muebles,Prod_Muebles_13,6.0,45.01,25.81,270.06,154.86,Transferencia,115.2,01-Enero,8,02-Regular
 TRX-102799,2024-01-22,936,Argentina,Buenos Aires,Ropa,Caballero,Prod_Caballero_12,4.0,49.5,28.87,198.0,115.48,Efectivo,82.52,01-Enero,7,02-Regular
 TRX-114540,2024-01-22,185,Arg.,Rosario,Hogar,Iluminación,Prod_Iluminación_18,8.0,40.24,22.27,321.92,178.16,Crédito,143.76,01-Enero,11,01-Fiel (VIP)
 TRX-112016,2024-01-22,1792,Perú,Lima,Electrónica,Celulares,Prod_Celulares_4,3.0,122.46,85.21,367.38,255.63,Crédito,111.75,01-Enero,6,02-Regular
@@ -10650,7 +10644,7 @@ TRX-105053,2024-01-27,1685,Chile,Nan,Hogar,Muebles,Prod_Muebles_6,1.0,20.59,13.7
 TRX-109033,2024-01-27,620,Chile,Santiago,Hogar,Decoración,Prod_Decoración_12,3.0,53.07,31.58,159.21,94.74,Transferencia,64.47,01-Enero,6,02-Regular
 TRX-105937,2024-01-27,868,Chile,Valparaíso,Ropa,Caballero,Prod_Caballero_13,9.0,53.41,30.57,480.69,275.13,Débito,205.56,01-Enero,8,02-Regular
 TRX-111285,2024-01-27,1563,Argentina,Córdoba,Electrónica,Laptops,Prod_Laptops_13,3.0,180.16,137.34,540.48,412.02,Efectivo,128.46,01-Enero,4,02-Regular
-TRX-102321,2024-01-27,1435,Chile,Concepción,Ropa,Infantil,Prod_Infantil_11,1.0,24.09,18.6,24.09,18.6,Efectivo,5.49,01-Enero,10,01-Fiel (VIP)
+TRX-102321,2024-01-27,1435,Chile,Concepción,Ropa,Infantil,Prod_Infantil_11,1.0,24.09,18.6,24.09,18.6,Efectivo,5.49,01-Enero,9,02-Regular
 TRX-100125,2024-01-27,1362,Chile,Concepción,Hogar,Cocina,Prod_Cocina_13,9.0,42.93,32.8,386.37,295.2,Débito,91.17,01-Enero,6,02-Regular
 TRX-111504,2024-01-27,1450,Perú,Arequipa,Hogar,Iluminación,Prod_Iluminación_8,1.0,52.61,32.88,52.61,32.88,Transferencia,19.73,01-Enero,9,02-Regular
 TRX-107771,2024-01-27,1754,Argentina,Buenos Aires,Hogar,Decoración,Prod_Decoración_2,2.0,19.09,13.1,38.18,26.2,Efectivo,11.98,01-Enero,8,02-Regular
@@ -10722,7 +10716,7 @@ TRX-102439,2024-01-30,526,Chile,Valparaíso,Electrónica,Celulares,Prod_Celulare
 TRX-104055,2024-01-30,339,Argentina,Córdoba,Nan,Tablets,Prod_Tablets_3,3.0,203.28,138.19,609.84,414.57,Efectivo,195.27,01-Enero,9,02-Regular
 TRX-113893,2024-01-30,1956,Chile,Santiago,Ropa,Dama,Prod_Dama_10,6.0,53.8,30.93,322.8,185.58,Débito,137.22,01-Enero,10,01-Fiel (VIP)
 TRX-110979,2024-01-30,846,Perú,Arequipa,Ropa,Dama,Prod_Dama_9,2.0,62.51,32.06,125.02,64.12,Transferencia,60.9,01-Enero,5,02-Regular
-TRX-110829,2024-01-30,1435,Argentina,Córdoba,Hogar,Muebles,Prod_Muebles_1,8.0,33.34,23.05,266.72,184.4,Crédito,82.32,01-Enero,10,01-Fiel (VIP)
+TRX-110829,2024-01-30,1435,Argentina,Córdoba,Hogar,Muebles,Prod_Muebles_1,8.0,33.34,23.05,266.72,184.4,Crédito,82.32,01-Enero,9,02-Regular
 TRX-111145,2024-01-30,634,Chile,Santiago,Hogar,Muebles,Prod_Muebles_18,9.0,61.82,48.56,556.38,437.04,Transferencia,119.34,01-Enero,7,02-Regular
 TRX-103712,2024-01-30,179,Perú,Trujillo,Ropa,Calzado,Prod_Calzado_7,4.0,33.54,17.59,134.16,70.36,Transferencia,63.8,01-Enero,8,02-Regular
 TRX-103068,2024-01-30,873,Perú,Lima,Hogar,Decoración,Prod_Decoración_19,5.0,45.57,33.73,227.85,168.65,Débito,59.2,01-Enero,5,02-Regular
@@ -10913,7 +10907,7 @@ TRX-113768,2024-02-06,642,Chile,Santiago,Hogar,Decoración,Prod_Decoración_4,5.
 TRX-109175,2024-02-06,1755,Chile,Nan,Electrónica,Celulares,Prod_Celulares_14,7.0,80.2,48.83,561.4,341.81,Crédito,219.59,02-Febrero,8,02-Regular
 TRX-112412,2024-02-06,1569,Argentina,Rosario,Ropa,Infantil,Prod_Infantil_2,7.0,39.06,21.57,273.42,150.99,Débito,122.43,02-Febrero,7,02-Regular
 TRX-110768,2024-02-06,1475,Chile,Santiago,Electrónica,Tablets,Prod_Tablets_2,9.0,91.2,65.01,820.8,585.09,Transferencia,235.71,02-Febrero,9,02-Regular
-TRX-102330,2024-02-06,971,Chile,Santiago,Hogar,Iluminación,Prod_Iluminación_3,9.0,22.72,16.52,204.48,148.68,Crédito,55.8,02-Febrero,6,02-Regular
+TRX-102330,2024-02-06,971,Chile,Santiago,Hogar,Iluminación,Prod_Iluminación_3,9.0,22.72,16.52,204.48,148.68,Crédito,55.8,02-Febrero,5,02-Regular
 TRX-111871,2024-02-06,696,Perú,Arequipa,Hogar,Muebles,Prod_Muebles_8,9.0,18.99,9.51,170.91,85.59,Efectivo,85.32,02-Febrero,7,02-Regular
 TRX-100830,2024-02-06,96,Argentina,Rosario,Hogar,Cocina,Prod_Cocina_18,8.0,46.89,23.7,375.12,189.6,Débito,185.52,02-Febrero,6,02-Regular
 TRX-104206,2024-02-06,649,Perú,Lima,Hogar,Iluminación,Prod_Iluminación_14,7.0,30.28,17.8,211.96,124.6,Débito,87.36,02-Febrero,5,02-Regular
@@ -11221,7 +11215,7 @@ TRX-100875,2024-02-17,796,Chl,Santiago,Hogar,Muebles,Prod_Muebles_12,4.0,12.26,9
 TRX-110819,2024-02-17,874,Chile,Concepción,Ropa,Calzado,Prod_Calzado_4,3.0,31.41,24.67,94.23,74.01,Crédito,20.22,02-Febrero,8,02-Regular
 TRX-108642,2024-02-17,258,Chile,Valparaíso,Hogar,Decoración,Prod_Decoración_5,3.0,67.11,43.78,201.33,131.34,Transferencia,69.99,02-Febrero,4,02-Regular
 TRX-110390,2024-02-17,1741,Chile,Valparaíso,Electrónica,Celulares,Prod_Celulares_6,8.0,119.52,69.51,956.16,556.08,Transferencia,400.08,02-Febrero,3,03-Ocasional
-TRX-105961,2024-02-17,971,Argentina,Córdoba,Hogar,Iluminación,Prod_Iluminación_12,1.0,30.24,17.87,30.24,17.87,Nan,12.37,02-Febrero,6,02-Regular
+TRX-105961,2024-02-17,971,Argentina,Córdoba,Hogar,Iluminación,Prod_Iluminación_12,1.0,30.24,17.87,30.24,17.87,Nan,12.37,02-Febrero,5,02-Regular
 TRX-110330,2024-02-17,748,Chile,Concepción,Hogar,Muebles,Prod_Muebles_4,2.0,34.35,24.25,68.7,48.5,Transferencia,20.2,02-Febrero,6,02-Regular
 TRX-107546,2024-02-17,1411,Perú,Trujillo,Hogar,Muebles,Prod_Muebles_16,7.0,39.39,23.75,275.73,166.25,Nan,109.48,02-Febrero,6,02-Regular
 TRX-108534,2024-02-17,1425,Argentina,Córdoba,Ropa,Infantil,Prod_Infantil_13,9.0,32.41,20.66,291.69,185.94,Crédito,105.75,02-Febrero,9,02-Regular
@@ -11321,7 +11315,7 @@ TRX-100621,2024-02-21,465,Chile,Santiago,Electrónica,Laptops,Prod_Laptops_3,2.0
 TRX-114217,2024-02-21,1927,Chile,Valparaíso,Ropa,Dama,Prod_Dama_10,2.0,34.09,17.93,68.18,35.86,Transferencia,32.32,02-Febrero,4,02-Regular
 TRX-108755,2024-02-21,49,Perú,Arequipa,Hogar,Cocina,Prod_Cocina_4,1.0,26.59,13.69,26.59,13.69,Crédito,12.9,02-Febrero,5,02-Regular
 TRX-113664,2024-02-21,1881,Chile,Concepción,Electrónica,Accesorios,Prod_Accesorios_16,2.0,60.66,41.42,121.32,82.84,Débito,38.48,02-Febrero,6,02-Regular
-TRX-112857,2024-02-21,1435,Perú,Arequipa,Electrónica,Celulares,Prod_Celulares_16,3.0,139.32,106.43,417.96,319.29,Crédito,98.67,02-Febrero,10,01-Fiel (VIP)
+TRX-112857,2024-02-21,1435,Perú,Arequipa,Electrónica,Celulares,Prod_Celulares_16,3.0,139.32,106.43,417.96,319.29,Crédito,98.67,02-Febrero,9,02-Regular
 TRX-104626,2024-02-21,1222,Perú,Arequipa,Electrónica,Tablets,Prod_Tablets_11,6.0,159.74,90.26,958.44,541.56,Transferencia,416.88,02-Febrero,6,02-Regular
 TRX-104613,2024-02-21,1225,Argentina,Córdoba,Ropa,Dama,Prod_Dama_1,9.0,25.44,17.83,228.96,160.47,Débito,68.49,02-Febrero,8,02-Regular
 TRX-114714,2024-02-21,1941,Perú,Arequipa,Ropa,Infantil,Prod_Infantil_3,1.0,27.59,18.58,27.59,18.58,Transferencia,9.01,02-Febrero,7,02-Regular
@@ -11631,7 +11625,6 @@ TRX-110890,2024-03-03,1478,Chile,Valparaíso,Ropa,Caballero,Prod_Caballero_12,6.
 TRX-109508,2024-03-03,1808,Perú,Arequipa,Hogar,Decoración,Prod_Decoración_8,4.0,37.55,24.84,150.2,99.36,Transferencia,50.84,03-Marzo,9,02-Regular
 TRX-111500,2024-03-03,550,Argentina,Rosario,Electrónica,Celulares,Prod_Celulares_15,3.0,113.63,75.05,340.89,225.15,Transferencia,115.74,03-Marzo,10,01-Fiel (VIP)
 TRX-101609,2024-03-03,685,Perú,Trujillo,Hogar,Iluminación,Prod_Iluminación_1,1.0,39.51,23.85,39.51,23.85,Efectivo,15.66,03-Marzo,7,02-Regular
-TRX-113931,2024-03-03,654,Argentina,Buenos Aires,Hogar,Cocina,Prod_Cocina_13,-1.0,51.79,39.46,-51.79,-39.46,Débito,-12.33,03-Marzo,9,02-Regular
 TRX-107804,2024-03-03,1519,Argentina,Rosario,Hogar,Decoración,Prod_Decoración_15,5.0,43.34,30.32,216.7,151.6,Transferencia,65.1,03-Marzo,6,02-Regular
 TRX-108441,2024-03-03,83,Perú,Trujillo,Electrónica,Accesorios,Prod_Accesorios_15,6.0,78.63,50.37,471.78,302.22,Débito,169.56,03-Marzo,6,02-Regular
 TRX-100068,2024-03-03,1760,Argentina,Buenos Aires,Electrónica,Accesorios,Prod_Accesorios_8,1.0,216.8,154.09,216.8,154.09,Crédito,62.71,03-Marzo,7,02-Regular
@@ -11727,7 +11720,6 @@ TRX-106144,2024-03-07,1618,Chile,Concepción,Hogar,Decoración,Prod_Decoración_
 TRX-102758,2024-03-07,1078,Perú,Arequipa,Ropa,Caballero,Prod_Caballero_13,1.0,18.27,9.16,18.27,9.16,Transferencia,9.11,03-Marzo,9,02-Regular
 TRX-103864,2024-03-07,264,Argentina,Córdoba,Hogar,Muebles,Prod_Muebles_12,4.0,20.53,15.35,82.12,61.4,Transferencia,20.72,03-Marzo,7,02-Regular
 TRX-105699,2024-03-07,1093,Perú,Trujillo,Hogar,Cocina,Prod_Cocina_9,1.0,49.42,37.8,49.42,37.8,Crédito,11.62,03-Marzo,9,02-Regular
-TRX-109229,2024-03-08,1915,Chile,Valparaíso,Ropa,Caballero,Prod_Caballero_10,-3.0,60.35,45.16,-181.05,-135.48,Débito,-45.57,03-Marzo,6,02-Regular
 TRX-109352,2024-03-08,163,Perú,Arequipa,Hogar,Iluminación,Prod_Iluminación_6,3.0,44.82,33.48,134.46,100.44,Débito,34.02,03-Marzo,8,02-Regular
 TRX-106003,2024-03-08,594,Perú,Arequipa,Hogar,Cocina,Prod_Cocina_1,5.0,55.11,29.8,275.55,149.0,Crédito,126.55,03-Marzo,9,02-Regular
 TRX-112866,2024-03-08,1209,Chile,Concepción,Ropa,Dama,Prod_Dama_12,5.0,5.47,3.41,27.35,17.05,Crédito,10.3,03-Marzo,3,03-Ocasional
