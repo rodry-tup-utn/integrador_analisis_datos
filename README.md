@@ -21,6 +21,12 @@
 
 ---
 
+### Tablero de Grafana
+
+![Tablero Grafana](Dashboard_Grafana.png)
+
+---
+
 ## 🗺️ Hoja de Ruta del Proyecto
 
 ### ✅ Hito 1: Adquisición y Planteo
