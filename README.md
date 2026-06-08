@@ -8,7 +8,7 @@
 - **Ramirez, Rodrigo**
 
 **Docente:** Cinthia Rigoni  
-**Fecha de Entrega:** 02/05 (Hasta Hito 2)
+**Fecha de Entrega:** 09/06 (Hasta Hito 3)
 
 ---
 
@@ -40,7 +40,7 @@
 - [x] **Ingeniería de Atributos**: Creación de `Ganancia_Bruta`, `mes_texto` e `Indice_Constancia`[cite: 1].
 - [x] **Normalización**: Redondeo financiero y estandarización de categorías de texto[cite: 1].
 
-### ⏳ Hito 3: Visualización Dinámica (Próximamente)
+### ⏳ Hito 3: Visualización Dinámica
 
 - [x] Implementación de análisis exploratorio (EDA) con Seaborn[cite: 1].
 - [x] Construcción de narrativa de datos e insights[cite: 1].
