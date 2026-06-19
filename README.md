@@ -56,9 +56,12 @@
 
 ### Tablero de Grafana
 
-![Tablero Grafana](Dashboard_Grafana.png)
+![Tablero Grafana](assets/Dashboard_Grafana.png)
 
 ### Dashboard Streamlit
+
+![Dashboard Streamlit - Panel superior](assets/streamlit1.png)
+![Dashboard Streamlit - Panel inferior](assets/streamlit2.png)
 
 Dashboard interactivo desarrollado con **Streamlit** + **Plotly**, que consume `data/dataset_limpio.csv`.
 
