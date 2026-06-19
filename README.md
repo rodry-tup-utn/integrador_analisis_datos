@@ -65,7 +65,8 @@ Dashboard interactivo desarrollado con **Streamlit** + **Plotly**, que consume `
 **Ejecución:**
 
 ```bash
-conda run -n ciencia_datos streamlit run dashboard/app.py
+pip install -r requirements.txt
+streamlit run dashboard/app.py
 ```
 
 **Filtros:** fecha, país, categoría, método de pago, índice de constancia.  
