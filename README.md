@@ -8,7 +8,7 @@
 - **Ramirez, Rodrigo**
 
 **Docente:** Cinthia Rigoni  
-**Fecha de Entrega:** 09/06 (Hasta Hito 3)
+**Fecha de Entrega:** 26/06
 
 ---
 
@@ -21,35 +21,57 @@
 
 ---
 
-### Tablero de Grafana
-
-![Tablero Grafana](Dashboard_Grafana.png)
-
----
-
 ## 🗺️ Hoja de Ruta del Proyecto
 
 ### ✅ Hito 1: Adquisición y Planteo
 
-- [x] Selección y carga de dataset (+15,000 registros)[cite: 1].
-- [x] Definición de objetivos estratégicos y preguntas de negocio[cite: 1].
+- [x] Selección y carga de dataset (+15,000 registros)
+- [x] Definición de objetivos estratégicos y preguntas de negocio
 
 ### ✅ Hito 2: ETL y Feature Engineering
 
-- [x] **Calidad de Datos**: Limpieza de nulos y tratamiento de _outliers_ (Método IQR)[cite: 1].
-- [x] **Ingeniería de Atributos**: Creación de `Ganancia_Bruta`, `mes_texto` e `Indice_Constancia`[cite: 1].
-- [x] **Normalización**: Redondeo financiero y estandarización de categorías de texto[cite: 1].
+- [x] **Calidad de Datos**: Limpieza de nulos y tratamiento de _outliers_ (Método IQR)
+- [x] **Ingeniería de Atributos**: Creación de `Ganancia_Bruta`, `mes_texto` e `Indice_Constancia`
+- [x] **Normalización**: Redondeo financiero y estandarización de categorías de texto
 
-### ⏳ Hito 3: Visualización Dinámica
+### ✅ Hito 3: Visualización Dinámica
 
-- [x] Implementación de análisis exploratorio (EDA) con Seaborn[cite: 1].
-- [x] Construcción de narrativa de datos e insights[cite: 1].
+- [x] Implementación de análisis exploratorio (EDA) con Seaborn
+- [x] Construcción de narrativa de datos e insights
 
-### ⏳ Hito 4: Dashboard Interactivo
+### ✅ Hito 4: Dashboard Interactivo
 
-- [ ] Desarrollo de interfaz en **Streamlit**[cite: 1].
-- [ ] Implementación de filtros en tiempo real y KPIs[cite: 1].
+- [x] Dashboard en **Streamlit** con filtros dinámicos (fecha, país, categoría, método de pago, índice de constancia)
+- [x] KPIs en tiempo real: venta total, ganancia bruta, transacciones, ticket promedio
+- [x] 6 gráficos interactivos (Plotly): evolución mensual, ventas por categoría, top 10 productos, ventas por país, distribución por método de pago, ventas por tipo de cliente
 
-### ⏳ Hito 5: Informe de Gestión
+### ✅ Hito 5: Informe de Gestión
 
-- [ ] Diagnóstico final y propuestas basadas en evidencia de datos[cite: 1].
+- [x] Diagnóstico final y propuestas basadas en evidencia de datos
+- [x] Documento: [`informe_gestion.md`](informe_gestion.md)
+
+---
+
+## 📊 Dashboards
+
+### Tablero de Grafana
+
+![Tablero Grafana](assets/Dashboard_Grafana.png)
+
+### Dashboard Streamlit
+
+![Dashboard Streamlit - Panel superior](assets/streamlit1.png)
+![Dashboard Streamlit - Panel inferior](assets/streamlit2.png)
+
+Dashboard interactivo desarrollado con **Streamlit** + **Plotly**, que consume `data/dataset_limpio.csv`.
+
+**Ejecución:**
+
+```bash
+pip install -r requirements.txt
+streamlit run dashboard/app.py
+```
+
+**Filtros:** fecha, país, categoría, método de pago, índice de constancia.  
+**KPIs:** venta total, ganancia bruta, transacciones, ticket promedio.  
+**Gráficos:** evolución mensual, ventas por categoría, top 10 productos, ventas por país, distribución por método de pago, ventas por tipo de cliente.
